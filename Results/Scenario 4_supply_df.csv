@@ -1,0 +1,3151 @@
+0;1
+('Österreich', 'Biomass', 2020);0.0
+('Österreich', 'Biomass', 2021);0.0
+('Österreich', 'Biomass', 2022);0.0
+('Österreich', 'Biomass', 2023);0.0
+('Österreich', 'Biomass', 2024);0.0
+('Österreich', 'Biomass', 2025);0.0
+('Österreich', 'Biomass', 2026);0.0
+('Österreich', 'Biomass', 2027);0.0
+('Österreich', 'Biomass', 2028);0.0
+('Österreich', 'Biomass', 2029);
+('Österreich', 'Biomass', 2030);
+('Österreich', 'Biomass', 2031);
+('Österreich', 'Biomass', 2032);
+('Österreich', 'Biomass', 2033);
+('Österreich', 'Biomass', 2034);0.0
+('Österreich', 'Biomass', 2035);0.0
+('Österreich', 'Biomass', 2036);0.0
+('Österreich', 'Biomass', 2037);0.0
+('Österreich', 'Biomass', 2038);0.0
+('Österreich', 'Biomass', 2039);0.0
+('Österreich', 'Biomass', 2040);0.0
+('Österreich', 'Geothermal', 2020);0.0
+('Österreich', 'Geothermal', 2021);0.0
+('Österreich', 'Geothermal', 2022);0.0
+('Österreich', 'Geothermal', 2023);0.0
+('Österreich', 'Geothermal', 2024);0.0
+('Österreich', 'Geothermal', 2025);0.0
+('Österreich', 'Geothermal', 2026);0.0
+('Österreich', 'Geothermal', 2027);0.0
+('Österreich', 'Geothermal', 2028);0.0
+('Österreich', 'Geothermal', 2029);0.0
+('Österreich', 'Geothermal', 2030);0.0
+('Österreich', 'Geothermal', 2031);0.0
+('Österreich', 'Geothermal', 2032);0.0
+('Österreich', 'Geothermal', 2033);0.0
+('Österreich', 'Geothermal', 2034);0.0
+('Österreich', 'Geothermal', 2035);0.0
+('Österreich', 'Geothermal', 2036);0.0
+('Österreich', 'Geothermal', 2037);0.0
+('Österreich', 'Geothermal', 2038);0.0
+('Österreich', 'Geothermal', 2039);0.0
+('Österreich', 'Geothermal', 2040);0.0
+('Österreich', 'Hydro', 2020);
+('Österreich', 'Hydro', 2021);
+('Österreich', 'Hydro', 2022);
+('Österreich', 'Hydro', 2023);
+('Österreich', 'Hydro', 2024);
+('Österreich', 'Hydro', 2025);
+('Österreich', 'Hydro', 2026);
+('Österreich', 'Hydro', 2027);
+('Österreich', 'Hydro', 2028);
+('Österreich', 'Hydro', 2029);
+('Österreich', 'Hydro', 2030);
+('Österreich', 'Hydro', 2031);
+('Österreich', 'Hydro', 2032);
+('Österreich', 'Hydro', 2033);
+('Österreich', 'Hydro', 2034);
+('Österreich', 'Hydro', 2035);
+('Österreich', 'Hydro', 2036);
+('Österreich', 'Hydro', 2037);
+('Österreich', 'Hydro', 2038);
+('Österreich', 'Hydro', 2039);
+('Österreich', 'Hydro', 2040);
+('Österreich', 'Other RES', 2020);0.0
+('Österreich', 'Other RES', 2021);0.0
+('Österreich', 'Other RES', 2022);0.0
+('Österreich', 'Other RES', 2023);0.0
+('Österreich', 'Other RES', 2024);0.0
+('Österreich', 'Other RES', 2025);0.0
+('Österreich', 'Other RES', 2026);0.0
+('Österreich', 'Other RES', 2027);0.0
+('Österreich', 'Other RES', 2028);0.0
+('Österreich', 'Other RES', 2029);0.0
+('Österreich', 'Other RES', 2030);0.0
+('Österreich', 'Other RES', 2031);0.0
+('Österreich', 'Other RES', 2032);0.0
+('Österreich', 'Other RES', 2033);0.0
+('Österreich', 'Other RES', 2034);0.0
+('Österreich', 'Other RES', 2035);0.0
+('Österreich', 'Other RES', 2036);0.0
+('Österreich', 'Other RES', 2037);0.0
+('Österreich', 'Other RES', 2038);0.0
+('Österreich', 'Other RES', 2039);0.0
+('Österreich', 'Other RES', 2040);0.0
+('Österreich', 'Solar', 2020);0.0
+('Österreich', 'Solar', 2021);0.0
+('Österreich', 'Solar', 2022);0.0
+('Österreich', 'Solar', 2023);0.0
+('Österreich', 'Solar', 2024);0.0
+('Österreich', 'Solar', 2025);0.0
+('Österreich', 'Solar', 2026);0.0
+('Österreich', 'Solar', 2027);0.0
+('Österreich', 'Solar', 2028);0.0
+('Österreich', 'Solar', 2029);0.0
+('Österreich', 'Solar', 2030);0.0
+('Österreich', 'Solar', 2031);0.0
+('Österreich', 'Solar', 2032);0.0
+('Österreich', 'Solar', 2033);0.0
+('Österreich', 'Solar', 2034);0.0
+('Österreich', 'Solar', 2035);0.0
+('Österreich', 'Solar', 2036);0.0
+('Österreich', 'Solar', 2037);0.0
+('Österreich', 'Solar', 2038);0.0
+('Österreich', 'Solar', 2039);0.0
+('Österreich', 'Solar', 2040);0.0
+('Österreich', 'Wind', 2020);0.0
+('Österreich', 'Wind', 2021);0.0
+('Österreich', 'Wind', 2022);0.0
+('Österreich', 'Wind', 2023);0.0
+('Österreich', 'Wind', 2024);0.0
+('Österreich', 'Wind', 2025);0.0
+('Österreich', 'Wind', 2026);0.0
+('Österreich', 'Wind', 2027);0.0
+('Österreich', 'Wind', 2028);0.0
+('Österreich', 'Wind', 2029);0.0
+('Österreich', 'Wind', 2030);0.0
+('Österreich', 'Wind', 2031);0.0
+('Österreich', 'Wind', 2032);0.0
+('Österreich', 'Wind', 2033);0.0
+('Österreich', 'Wind', 2034);0.0
+('Österreich', 'Wind', 2035);0.0
+('Österreich', 'Wind', 2036);0.0
+('Österreich', 'Wind', 2037);0.0
+('Österreich', 'Wind', 2038);0.0
+('Österreich', 'Wind', 2039);0.0
+('Österreich', 'Wind', 2040);0.0
+('Belgien', 'Biomass', 2020);0.0
+('Belgien', 'Biomass', 2021);0.0
+('Belgien', 'Biomass', 2022);0.0
+('Belgien', 'Biomass', 2023);0.0
+('Belgien', 'Biomass', 2024);0.0
+('Belgien', 'Biomass', 2025);0.0
+('Belgien', 'Biomass', 2026);0.0
+('Belgien', 'Biomass', 2027);0.0
+('Belgien', 'Biomass', 2028);0.0
+('Belgien', 'Biomass', 2029);0.0
+('Belgien', 'Biomass', 2030);0.0
+('Belgien', 'Biomass', 2031);0.0
+('Belgien', 'Biomass', 2032);0.0
+('Belgien', 'Biomass', 2033);0.0
+('Belgien', 'Biomass', 2034);0.0
+('Belgien', 'Biomass', 2035);0.0
+('Belgien', 'Biomass', 2036);0.0
+('Belgien', 'Biomass', 2037);0.0
+('Belgien', 'Biomass', 2038);0.0
+('Belgien', 'Biomass', 2039);0.0
+('Belgien', 'Biomass', 2040);0.0
+('Belgien', 'Geothermal', 2020);0.0
+('Belgien', 'Geothermal', 2021);0.0
+('Belgien', 'Geothermal', 2022);0.0
+('Belgien', 'Geothermal', 2023);0.0
+('Belgien', 'Geothermal', 2024);0.0
+('Belgien', 'Geothermal', 2025);0.0
+('Belgien', 'Geothermal', 2026);0.0
+('Belgien', 'Geothermal', 2027);0.0
+('Belgien', 'Geothermal', 2028);0.0
+('Belgien', 'Geothermal', 2029);0.0
+('Belgien', 'Geothermal', 2030);0.0
+('Belgien', 'Geothermal', 2031);0.0
+('Belgien', 'Geothermal', 2032);0.0
+('Belgien', 'Geothermal', 2033);0.0
+('Belgien', 'Geothermal', 2034);0.0
+('Belgien', 'Geothermal', 2035);0.0
+('Belgien', 'Geothermal', 2036);0.0
+('Belgien', 'Geothermal', 2037);0.0
+('Belgien', 'Geothermal', 2038);0.0
+('Belgien', 'Geothermal', 2039);0.0
+('Belgien', 'Geothermal', 2040);0.0
+('Belgien', 'Hydro', 2020);0.0
+('Belgien', 'Hydro', 2021);0.0
+('Belgien', 'Hydro', 2022);0.0
+('Belgien', 'Hydro', 2023);0.0
+('Belgien', 'Hydro', 2024);0.0
+('Belgien', 'Hydro', 2025);0.0
+('Belgien', 'Hydro', 2026);0.0
+('Belgien', 'Hydro', 2027);0.0
+('Belgien', 'Hydro', 2028);0.0
+('Belgien', 'Hydro', 2029);0.0
+('Belgien', 'Hydro', 2030);0.0
+('Belgien', 'Hydro', 2031);0.0
+('Belgien', 'Hydro', 2032);0.0
+('Belgien', 'Hydro', 2033);0.0
+('Belgien', 'Hydro', 2034);0.0
+('Belgien', 'Hydro', 2035);0.0
+('Belgien', 'Hydro', 2036);0.0
+('Belgien', 'Hydro', 2037);0.0
+('Belgien', 'Hydro', 2038);0.0
+('Belgien', 'Hydro', 2039);0.0
+('Belgien', 'Hydro', 2040);0.0
+('Belgien', 'Other RES', 2020);0.0
+('Belgien', 'Other RES', 2021);0.0
+('Belgien', 'Other RES', 2022);0.0
+('Belgien', 'Other RES', 2023);0.0
+('Belgien', 'Other RES', 2024);0.0
+('Belgien', 'Other RES', 2025);0.0
+('Belgien', 'Other RES', 2026);0.0
+('Belgien', 'Other RES', 2027);0.0
+('Belgien', 'Other RES', 2028);0.0
+('Belgien', 'Other RES', 2029);0.0
+('Belgien', 'Other RES', 2030);0.0
+('Belgien', 'Other RES', 2031);0.0
+('Belgien', 'Other RES', 2032);0.0
+('Belgien', 'Other RES', 2033);0.0
+('Belgien', 'Other RES', 2034);0.0
+('Belgien', 'Other RES', 2035);0.0
+('Belgien', 'Other RES', 2036);0.0
+('Belgien', 'Other RES', 2037);0.0
+('Belgien', 'Other RES', 2038);0.0
+('Belgien', 'Other RES', 2039);0.0
+('Belgien', 'Other RES', 2040);0.0
+('Belgien', 'Solar', 2020);0.0
+('Belgien', 'Solar', 2021);0.0
+('Belgien', 'Solar', 2022);0.0
+('Belgien', 'Solar', 2023);0.0
+('Belgien', 'Solar', 2024);0.0
+('Belgien', 'Solar', 2025);0.0
+('Belgien', 'Solar', 2026);0.0
+('Belgien', 'Solar', 2027);0.0
+('Belgien', 'Solar', 2028);0.0
+('Belgien', 'Solar', 2029);0.0
+('Belgien', 'Solar', 2030);0.0
+('Belgien', 'Solar', 2031);0.0
+('Belgien', 'Solar', 2032);0.0
+('Belgien', 'Solar', 2033);0.0
+('Belgien', 'Solar', 2034);0.0
+('Belgien', 'Solar', 2035);0.0
+('Belgien', 'Solar', 2036);0.0
+('Belgien', 'Solar', 2037);0.0
+('Belgien', 'Solar', 2038);0.0
+('Belgien', 'Solar', 2039);0.0
+('Belgien', 'Solar', 2040);0.0
+('Belgien', 'Wind', 2020);0.0
+('Belgien', 'Wind', 2021);0.0
+('Belgien', 'Wind', 2022);0.0
+('Belgien', 'Wind', 2023);0.0
+('Belgien', 'Wind', 2024);0.0
+('Belgien', 'Wind', 2025);0.0
+('Belgien', 'Wind', 2026);0.0
+('Belgien', 'Wind', 2027);0.0
+('Belgien', 'Wind', 2028);0.0
+('Belgien', 'Wind', 2029);0.0
+('Belgien', 'Wind', 2030);0.0
+('Belgien', 'Wind', 2031);0.0
+('Belgien', 'Wind', 2032);0.0
+('Belgien', 'Wind', 2033);0.0
+('Belgien', 'Wind', 2034);0.0
+('Belgien', 'Wind', 2035);0.0
+('Belgien', 'Wind', 2036);0.0
+('Belgien', 'Wind', 2037);0.0
+('Belgien', 'Wind', 2038);0.0
+('Belgien', 'Wind', 2039);0.0
+('Belgien', 'Wind', 2040);0.0
+('Kroatien', 'Biomass', 2020);0.0
+('Kroatien', 'Biomass', 2021);0.0
+('Kroatien', 'Biomass', 2022);0.0
+('Kroatien', 'Biomass', 2023);0.0
+('Kroatien', 'Biomass', 2024);0.0
+('Kroatien', 'Biomass', 2025);0.0
+('Kroatien', 'Biomass', 2026);0.0
+('Kroatien', 'Biomass', 2027);0.0
+('Kroatien', 'Biomass', 2028);0.0
+('Kroatien', 'Biomass', 2029);0.0
+('Kroatien', 'Biomass', 2030);0.0
+('Kroatien', 'Biomass', 2031);0.0
+('Kroatien', 'Biomass', 2032);0.0
+('Kroatien', 'Biomass', 2033);0.0
+('Kroatien', 'Biomass', 2034);0.0
+('Kroatien', 'Biomass', 2035);0.0
+('Kroatien', 'Biomass', 2036);0.0
+('Kroatien', 'Biomass', 2037);0.0
+('Kroatien', 'Biomass', 2038);0.0
+('Kroatien', 'Biomass', 2039);0.0
+('Kroatien', 'Biomass', 2040);0.0
+('Kroatien', 'Geothermal', 2020);0.0
+('Kroatien', 'Geothermal', 2021);0.0
+('Kroatien', 'Geothermal', 2022);0.0
+('Kroatien', 'Geothermal', 2023);0.0
+('Kroatien', 'Geothermal', 2024);0.0
+('Kroatien', 'Geothermal', 2025);0.0
+('Kroatien', 'Geothermal', 2026);0.0
+('Kroatien', 'Geothermal', 2027);0.0
+('Kroatien', 'Geothermal', 2028);0.0
+('Kroatien', 'Geothermal', 2029);0.0
+('Kroatien', 'Geothermal', 2030);0.0
+('Kroatien', 'Geothermal', 2031);0.0
+('Kroatien', 'Geothermal', 2032);0.0
+('Kroatien', 'Geothermal', 2033);0.0
+('Kroatien', 'Geothermal', 2034);0.0
+('Kroatien', 'Geothermal', 2035);0.0
+('Kroatien', 'Geothermal', 2036);0.0
+('Kroatien', 'Geothermal', 2037);0.0
+('Kroatien', 'Geothermal', 2038);0.0
+('Kroatien', 'Geothermal', 2039);0.0
+('Kroatien', 'Geothermal', 2040);0.0
+('Kroatien', 'Hydro', 2020);0.0
+('Kroatien', 'Hydro', 2021);0.0
+('Kroatien', 'Hydro', 2022);0.0
+('Kroatien', 'Hydro', 2023);0.0
+('Kroatien', 'Hydro', 2024);0.0
+('Kroatien', 'Hydro', 2025);0.0
+('Kroatien', 'Hydro', 2026);0.0
+('Kroatien', 'Hydro', 2027);0.0
+('Kroatien', 'Hydro', 2028);0.0
+('Kroatien', 'Hydro', 2029);0.0
+('Kroatien', 'Hydro', 2030);0.0
+('Kroatien', 'Hydro', 2031);0.0
+('Kroatien', 'Hydro', 2032);0.0
+('Kroatien', 'Hydro', 2033);0.0
+('Kroatien', 'Hydro', 2034);0.0
+('Kroatien', 'Hydro', 2035);0.0
+('Kroatien', 'Hydro', 2036);0.0
+('Kroatien', 'Hydro', 2037);0.0
+('Kroatien', 'Hydro', 2038);0.0
+('Kroatien', 'Hydro', 2039);0.0
+('Kroatien', 'Hydro', 2040);0.0
+('Kroatien', 'Other RES', 2020);0.0
+('Kroatien', 'Other RES', 2021);0.0
+('Kroatien', 'Other RES', 2022);0.0
+('Kroatien', 'Other RES', 2023);0.0
+('Kroatien', 'Other RES', 2024);0.0
+('Kroatien', 'Other RES', 2025);0.0
+('Kroatien', 'Other RES', 2026);0.0
+('Kroatien', 'Other RES', 2027);0.0
+('Kroatien', 'Other RES', 2028);0.0
+('Kroatien', 'Other RES', 2029);0.0
+('Kroatien', 'Other RES', 2030);0.0
+('Kroatien', 'Other RES', 2031);0.0
+('Kroatien', 'Other RES', 2032);0.0
+('Kroatien', 'Other RES', 2033);0.0
+('Kroatien', 'Other RES', 2034);0.0
+('Kroatien', 'Other RES', 2035);0.0
+('Kroatien', 'Other RES', 2036);0.0
+('Kroatien', 'Other RES', 2037);0.0
+('Kroatien', 'Other RES', 2038);0.0
+('Kroatien', 'Other RES', 2039);0.0
+('Kroatien', 'Other RES', 2040);0.0
+('Kroatien', 'Solar', 2020);0.0
+('Kroatien', 'Solar', 2021);0.0
+('Kroatien', 'Solar', 2022);0.0
+('Kroatien', 'Solar', 2023);0.0
+('Kroatien', 'Solar', 2024);0.0
+('Kroatien', 'Solar', 2025);0.0
+('Kroatien', 'Solar', 2026);0.0
+('Kroatien', 'Solar', 2027);0.0
+('Kroatien', 'Solar', 2028);0.0
+('Kroatien', 'Solar', 2029);0.0
+('Kroatien', 'Solar', 2030);0.0
+('Kroatien', 'Solar', 2031);0.0
+('Kroatien', 'Solar', 2032);0.0
+('Kroatien', 'Solar', 2033);0.0
+('Kroatien', 'Solar', 2034);0.0
+('Kroatien', 'Solar', 2035);0.0
+('Kroatien', 'Solar', 2036);0.0
+('Kroatien', 'Solar', 2037);0.0
+('Kroatien', 'Solar', 2038);0.0
+('Kroatien', 'Solar', 2039);0.0
+('Kroatien', 'Solar', 2040);0.0
+('Kroatien', 'Wind', 2020);0.0
+('Kroatien', 'Wind', 2021);0.0
+('Kroatien', 'Wind', 2022);0.0
+('Kroatien', 'Wind', 2023);0.0
+('Kroatien', 'Wind', 2024);0.0
+('Kroatien', 'Wind', 2025);0.0
+('Kroatien', 'Wind', 2026);0.0
+('Kroatien', 'Wind', 2027);0.0
+('Kroatien', 'Wind', 2028);0.0
+('Kroatien', 'Wind', 2029);0.0
+('Kroatien', 'Wind', 2030);0.0
+('Kroatien', 'Wind', 2031);0.0
+('Kroatien', 'Wind', 2032);0.0
+('Kroatien', 'Wind', 2033);0.0
+('Kroatien', 'Wind', 2034);0.0
+('Kroatien', 'Wind', 2035);0.0
+('Kroatien', 'Wind', 2036);0.0
+('Kroatien', 'Wind', 2037);0.0
+('Kroatien', 'Wind', 2038);0.0
+('Kroatien', 'Wind', 2039);0.0
+('Kroatien', 'Wind', 2040);0.0
+('Zypern', 'Biomass', 2020);0.0
+('Zypern', 'Biomass', 2021);0.0
+('Zypern', 'Biomass', 2022);0.0
+('Zypern', 'Biomass', 2023);0.0
+('Zypern', 'Biomass', 2024);0.0
+('Zypern', 'Biomass', 2025);0.0
+('Zypern', 'Biomass', 2026);0.0
+('Zypern', 'Biomass', 2027);0.0
+('Zypern', 'Biomass', 2028);0.0
+('Zypern', 'Biomass', 2029);0.0
+('Zypern', 'Biomass', 2030);0.0
+('Zypern', 'Biomass', 2031);0.0
+('Zypern', 'Biomass', 2032);0.0
+('Zypern', 'Biomass', 2033);0.0
+('Zypern', 'Biomass', 2034);0.0
+('Zypern', 'Biomass', 2035);0.0
+('Zypern', 'Biomass', 2036);0.0
+('Zypern', 'Biomass', 2037);0.0
+('Zypern', 'Biomass', 2038);0.0
+('Zypern', 'Biomass', 2039);0.0
+('Zypern', 'Biomass', 2040);0.0
+('Zypern', 'Geothermal', 2020);0.0
+('Zypern', 'Geothermal', 2021);0.0
+('Zypern', 'Geothermal', 2022);0.0
+('Zypern', 'Geothermal', 2023);0.0
+('Zypern', 'Geothermal', 2024);0.0
+('Zypern', 'Geothermal', 2025);0.0
+('Zypern', 'Geothermal', 2026);0.0
+('Zypern', 'Geothermal', 2027);0.0
+('Zypern', 'Geothermal', 2028);0.0
+('Zypern', 'Geothermal', 2029);0.0
+('Zypern', 'Geothermal', 2030);0.0
+('Zypern', 'Geothermal', 2031);0.0
+('Zypern', 'Geothermal', 2032);0.0
+('Zypern', 'Geothermal', 2033);0.0
+('Zypern', 'Geothermal', 2034);0.0
+('Zypern', 'Geothermal', 2035);0.0
+('Zypern', 'Geothermal', 2036);0.0
+('Zypern', 'Geothermal', 2037);0.0
+('Zypern', 'Geothermal', 2038);0.0
+('Zypern', 'Geothermal', 2039);0.0
+('Zypern', 'Geothermal', 2040);0.0
+('Zypern', 'Hydro', 2020);0.0
+('Zypern', 'Hydro', 2021);0.0
+('Zypern', 'Hydro', 2022);0.0
+('Zypern', 'Hydro', 2023);0.0
+('Zypern', 'Hydro', 2024);0.0
+('Zypern', 'Hydro', 2025);0.0
+('Zypern', 'Hydro', 2026);0.0
+('Zypern', 'Hydro', 2027);0.0
+('Zypern', 'Hydro', 2028);0.0
+('Zypern', 'Hydro', 2029);0.0
+('Zypern', 'Hydro', 2030);0.0
+('Zypern', 'Hydro', 2031);0.0
+('Zypern', 'Hydro', 2032);0.0
+('Zypern', 'Hydro', 2033);0.0
+('Zypern', 'Hydro', 2034);0.0
+('Zypern', 'Hydro', 2035);0.0
+('Zypern', 'Hydro', 2036);0.0
+('Zypern', 'Hydro', 2037);0.0
+('Zypern', 'Hydro', 2038);0.0
+('Zypern', 'Hydro', 2039);0.0
+('Zypern', 'Hydro', 2040);0.0
+('Zypern', 'Other RES', 2020);0.0
+('Zypern', 'Other RES', 2021);0.0
+('Zypern', 'Other RES', 2022);0.0
+('Zypern', 'Other RES', 2023);0.0
+('Zypern', 'Other RES', 2024);0.0
+('Zypern', 'Other RES', 2025);0.0
+('Zypern', 'Other RES', 2026);0.0
+('Zypern', 'Other RES', 2027);0.0
+('Zypern', 'Other RES', 2028);0.0
+('Zypern', 'Other RES', 2029);0.0
+('Zypern', 'Other RES', 2030);0.0
+('Zypern', 'Other RES', 2031);0.0
+('Zypern', 'Other RES', 2032);0.0
+('Zypern', 'Other RES', 2033);0.0
+('Zypern', 'Other RES', 2034);0.0
+('Zypern', 'Other RES', 2035);0.0
+('Zypern', 'Other RES', 2036);0.0
+('Zypern', 'Other RES', 2037);0.0
+('Zypern', 'Other RES', 2038);0.0
+('Zypern', 'Other RES', 2039);0.0
+('Zypern', 'Other RES', 2040);0.0
+('Zypern', 'Solar', 2020);0.0
+('Zypern', 'Solar', 2021);0.0
+('Zypern', 'Solar', 2022);0.0
+('Zypern', 'Solar', 2023);0.0
+('Zypern', 'Solar', 2024);0.0
+('Zypern', 'Solar', 2025);0.0
+('Zypern', 'Solar', 2026);0.0
+('Zypern', 'Solar', 2027);0.0
+('Zypern', 'Solar', 2028);0.0
+('Zypern', 'Solar', 2029);0.0
+('Zypern', 'Solar', 2030);0.0
+('Zypern', 'Solar', 2031);0.0
+('Zypern', 'Solar', 2032);0.0
+('Zypern', 'Solar', 2033);0.0
+('Zypern', 'Solar', 2034);0.0
+('Zypern', 'Solar', 2035);0.0
+('Zypern', 'Solar', 2036);0.0
+('Zypern', 'Solar', 2037);0.0
+('Zypern', 'Solar', 2038);0.0
+('Zypern', 'Solar', 2039);0.0
+('Zypern', 'Solar', 2040);0.0
+('Zypern', 'Wind', 2020);0.0
+('Zypern', 'Wind', 2021);0.0
+('Zypern', 'Wind', 2022);0.0
+('Zypern', 'Wind', 2023);0.0
+('Zypern', 'Wind', 2024);0.0
+('Zypern', 'Wind', 2025);0.0
+('Zypern', 'Wind', 2026);0.0
+('Zypern', 'Wind', 2027);0.0
+('Zypern', 'Wind', 2028);0.0
+('Zypern', 'Wind', 2029);0.0
+('Zypern', 'Wind', 2030);0.0
+('Zypern', 'Wind', 2031);0.0
+('Zypern', 'Wind', 2032);0.0
+('Zypern', 'Wind', 2033);0.0
+('Zypern', 'Wind', 2034);0.0
+('Zypern', 'Wind', 2035);0.0
+('Zypern', 'Wind', 2036);0.0
+('Zypern', 'Wind', 2037);0.0
+('Zypern', 'Wind', 2038);0.0
+('Zypern', 'Wind', 2039);0.0
+('Zypern', 'Wind', 2040);0.0
+('Tschechien', 'Biomass', 2020);0.0
+('Tschechien', 'Biomass', 2021);0.0
+('Tschechien', 'Biomass', 2022);0.0
+('Tschechien', 'Biomass', 2023);0.0
+('Tschechien', 'Biomass', 2024);0.0
+('Tschechien', 'Biomass', 2025);0.0
+('Tschechien', 'Biomass', 2026);0.0
+('Tschechien', 'Biomass', 2027);0.0
+('Tschechien', 'Biomass', 2028);0.0
+('Tschechien', 'Biomass', 2029);0.0
+('Tschechien', 'Biomass', 2030);0.0
+('Tschechien', 'Biomass', 2031);0.0
+('Tschechien', 'Biomass', 2032);0.0
+('Tschechien', 'Biomass', 2033);0.0
+('Tschechien', 'Biomass', 2034);0.0
+('Tschechien', 'Biomass', 2035);0.0
+('Tschechien', 'Biomass', 2036);0.0
+('Tschechien', 'Biomass', 2037);0.0
+('Tschechien', 'Biomass', 2038);0.0
+('Tschechien', 'Biomass', 2039);0.0
+('Tschechien', 'Biomass', 2040);0.0
+('Tschechien', 'Geothermal', 2020);0.0
+('Tschechien', 'Geothermal', 2021);0.0
+('Tschechien', 'Geothermal', 2022);0.0
+('Tschechien', 'Geothermal', 2023);0.0
+('Tschechien', 'Geothermal', 2024);0.0
+('Tschechien', 'Geothermal', 2025);0.0
+('Tschechien', 'Geothermal', 2026);0.0
+('Tschechien', 'Geothermal', 2027);0.0
+('Tschechien', 'Geothermal', 2028);0.0
+('Tschechien', 'Geothermal', 2029);0.0
+('Tschechien', 'Geothermal', 2030);0.0
+('Tschechien', 'Geothermal', 2031);0.0
+('Tschechien', 'Geothermal', 2032);0.0
+('Tschechien', 'Geothermal', 2033);0.0
+('Tschechien', 'Geothermal', 2034);0.0
+('Tschechien', 'Geothermal', 2035);0.0
+('Tschechien', 'Geothermal', 2036);0.0
+('Tschechien', 'Geothermal', 2037);0.0
+('Tschechien', 'Geothermal', 2038);0.0
+('Tschechien', 'Geothermal', 2039);0.0
+('Tschechien', 'Geothermal', 2040);0.0
+('Tschechien', 'Hydro', 2020);0.0
+('Tschechien', 'Hydro', 2021);0.0
+('Tschechien', 'Hydro', 2022);0.0
+('Tschechien', 'Hydro', 2023);0.0
+('Tschechien', 'Hydro', 2024);0.0
+('Tschechien', 'Hydro', 2025);0.0
+('Tschechien', 'Hydro', 2026);0.0
+('Tschechien', 'Hydro', 2027);0.0
+('Tschechien', 'Hydro', 2028);0.0
+('Tschechien', 'Hydro', 2029);0.0
+('Tschechien', 'Hydro', 2030);0.0
+('Tschechien', 'Hydro', 2031);0.0
+('Tschechien', 'Hydro', 2032);0.0
+('Tschechien', 'Hydro', 2033);0.0
+('Tschechien', 'Hydro', 2034);0.0
+('Tschechien', 'Hydro', 2035);0.0
+('Tschechien', 'Hydro', 2036);0.0
+('Tschechien', 'Hydro', 2037);0.0
+('Tschechien', 'Hydro', 2038);0.0
+('Tschechien', 'Hydro', 2039);0.0
+('Tschechien', 'Hydro', 2040);0.0
+('Tschechien', 'Other RES', 2020);0.0
+('Tschechien', 'Other RES', 2021);0.0
+('Tschechien', 'Other RES', 2022);0.0
+('Tschechien', 'Other RES', 2023);0.0
+('Tschechien', 'Other RES', 2024);0.0
+('Tschechien', 'Other RES', 2025);0.0
+('Tschechien', 'Other RES', 2026);0.0
+('Tschechien', 'Other RES', 2027);0.0
+('Tschechien', 'Other RES', 2028);0.0
+('Tschechien', 'Other RES', 2029);0.0
+('Tschechien', 'Other RES', 2030);0.0
+('Tschechien', 'Other RES', 2031);0.0
+('Tschechien', 'Other RES', 2032);0.0
+('Tschechien', 'Other RES', 2033);0.0
+('Tschechien', 'Other RES', 2034);0.0
+('Tschechien', 'Other RES', 2035);0.0
+('Tschechien', 'Other RES', 2036);0.0
+('Tschechien', 'Other RES', 2037);0.0
+('Tschechien', 'Other RES', 2038);0.0
+('Tschechien', 'Other RES', 2039);0.0
+('Tschechien', 'Other RES', 2040);0.0
+('Tschechien', 'Solar', 2020);0.0
+('Tschechien', 'Solar', 2021);0.0
+('Tschechien', 'Solar', 2022);0.0
+('Tschechien', 'Solar', 2023);0.0
+('Tschechien', 'Solar', 2024);0.0
+('Tschechien', 'Solar', 2025);0.0
+('Tschechien', 'Solar', 2026);0.0
+('Tschechien', 'Solar', 2027);0.0
+('Tschechien', 'Solar', 2028);0.0
+('Tschechien', 'Solar', 2029);0.0
+('Tschechien', 'Solar', 2030);0.0
+('Tschechien', 'Solar', 2031);0.0
+('Tschechien', 'Solar', 2032);0.0
+('Tschechien', 'Solar', 2033);0.0
+('Tschechien', 'Solar', 2034);0.0
+('Tschechien', 'Solar', 2035);0.0
+('Tschechien', 'Solar', 2036);0.0
+('Tschechien', 'Solar', 2037);0.0
+('Tschechien', 'Solar', 2038);0.0
+('Tschechien', 'Solar', 2039);0.0
+('Tschechien', 'Solar', 2040);0.0
+('Tschechien', 'Wind', 2020);0.0
+('Tschechien', 'Wind', 2021);0.0
+('Tschechien', 'Wind', 2022);0.0
+('Tschechien', 'Wind', 2023);0.0
+('Tschechien', 'Wind', 2024);0.0
+('Tschechien', 'Wind', 2025);0.0
+('Tschechien', 'Wind', 2026);0.0
+('Tschechien', 'Wind', 2027);0.0
+('Tschechien', 'Wind', 2028);0.0
+('Tschechien', 'Wind', 2029);0.0
+('Tschechien', 'Wind', 2030);0.0
+('Tschechien', 'Wind', 2031);0.0
+('Tschechien', 'Wind', 2032);0.0
+('Tschechien', 'Wind', 2033);0.0
+('Tschechien', 'Wind', 2034);0.0
+('Tschechien', 'Wind', 2035);0.0
+('Tschechien', 'Wind', 2036);0.0
+('Tschechien', 'Wind', 2037);0.0
+('Tschechien', 'Wind', 2038);0.0
+('Tschechien', 'Wind', 2039);0.0
+('Tschechien', 'Wind', 2040);0.0
+('Dänemark', 'Biomass', 2020);0.0
+('Dänemark', 'Biomass', 2021);0.0
+('Dänemark', 'Biomass', 2022);0.0
+('Dänemark', 'Biomass', 2023);0.0
+('Dänemark', 'Biomass', 2024);0.0
+('Dänemark', 'Biomass', 2025);0.0
+('Dänemark', 'Biomass', 2026);0.0
+('Dänemark', 'Biomass', 2027);0.0
+('Dänemark', 'Biomass', 2028);0.0
+('Dänemark', 'Biomass', 2029);0.0
+('Dänemark', 'Biomass', 2030);0.0
+('Dänemark', 'Biomass', 2031);0.0
+('Dänemark', 'Biomass', 2032);0.0
+('Dänemark', 'Biomass', 2033);0.0
+('Dänemark', 'Biomass', 2034);0.0
+('Dänemark', 'Biomass', 2035);0.0
+('Dänemark', 'Biomass', 2036);0.0
+('Dänemark', 'Biomass', 2037);0.0
+('Dänemark', 'Biomass', 2038);0.0
+('Dänemark', 'Biomass', 2039);0.0
+('Dänemark', 'Biomass', 2040);0.0
+('Dänemark', 'Geothermal', 2020);0.0
+('Dänemark', 'Geothermal', 2021);0.0
+('Dänemark', 'Geothermal', 2022);0.0
+('Dänemark', 'Geothermal', 2023);0.0
+('Dänemark', 'Geothermal', 2024);0.0
+('Dänemark', 'Geothermal', 2025);0.0
+('Dänemark', 'Geothermal', 2026);0.0
+('Dänemark', 'Geothermal', 2027);0.0
+('Dänemark', 'Geothermal', 2028);0.0
+('Dänemark', 'Geothermal', 2029);0.0
+('Dänemark', 'Geothermal', 2030);0.0
+('Dänemark', 'Geothermal', 2031);0.0
+('Dänemark', 'Geothermal', 2032);0.0
+('Dänemark', 'Geothermal', 2033);0.0
+('Dänemark', 'Geothermal', 2034);0.0
+('Dänemark', 'Geothermal', 2035);0.0
+('Dänemark', 'Geothermal', 2036);0.0
+('Dänemark', 'Geothermal', 2037);0.0
+('Dänemark', 'Geothermal', 2038);0.0
+('Dänemark', 'Geothermal', 2039);0.0
+('Dänemark', 'Geothermal', 2040);0.0
+('Dänemark', 'Hydro', 2020);0.0
+('Dänemark', 'Hydro', 2021);0.0
+('Dänemark', 'Hydro', 2022);0.0
+('Dänemark', 'Hydro', 2023);0.0
+('Dänemark', 'Hydro', 2024);0.0
+('Dänemark', 'Hydro', 2025);0.0
+('Dänemark', 'Hydro', 2026);0.0
+('Dänemark', 'Hydro', 2027);0.0
+('Dänemark', 'Hydro', 2028);0.0
+('Dänemark', 'Hydro', 2029);0.0
+('Dänemark', 'Hydro', 2030);0.0
+('Dänemark', 'Hydro', 2031);0.0
+('Dänemark', 'Hydro', 2032);0.0
+('Dänemark', 'Hydro', 2033);0.0
+('Dänemark', 'Hydro', 2034);0.0
+('Dänemark', 'Hydro', 2035);0.0
+('Dänemark', 'Hydro', 2036);0.0
+('Dänemark', 'Hydro', 2037);0.0
+('Dänemark', 'Hydro', 2038);0.0
+('Dänemark', 'Hydro', 2039);0.0
+('Dänemark', 'Hydro', 2040);0.0
+('Dänemark', 'Other RES', 2020);0.0
+('Dänemark', 'Other RES', 2021);0.0
+('Dänemark', 'Other RES', 2022);0.0
+('Dänemark', 'Other RES', 2023);0.0
+('Dänemark', 'Other RES', 2024);0.0
+('Dänemark', 'Other RES', 2025);0.0
+('Dänemark', 'Other RES', 2026);0.0
+('Dänemark', 'Other RES', 2027);0.0
+('Dänemark', 'Other RES', 2028);0.0
+('Dänemark', 'Other RES', 2029);0.0
+('Dänemark', 'Other RES', 2030);0.0
+('Dänemark', 'Other RES', 2031);0.0
+('Dänemark', 'Other RES', 2032);0.0
+('Dänemark', 'Other RES', 2033);0.0
+('Dänemark', 'Other RES', 2034);0.0
+('Dänemark', 'Other RES', 2035);0.0
+('Dänemark', 'Other RES', 2036);0.0
+('Dänemark', 'Other RES', 2037);0.0
+('Dänemark', 'Other RES', 2038);0.0
+('Dänemark', 'Other RES', 2039);0.0
+('Dänemark', 'Other RES', 2040);0.0
+('Dänemark', 'Solar', 2020);0.0
+('Dänemark', 'Solar', 2021);0.0
+('Dänemark', 'Solar', 2022);0.0
+('Dänemark', 'Solar', 2023);0.0
+('Dänemark', 'Solar', 2024);0.0
+('Dänemark', 'Solar', 2025);0.0
+('Dänemark', 'Solar', 2026);0.0
+('Dänemark', 'Solar', 2027);0.0
+('Dänemark', 'Solar', 2028);0.0
+('Dänemark', 'Solar', 2029);0.0
+('Dänemark', 'Solar', 2030);0.0
+('Dänemark', 'Solar', 2031);0.0
+('Dänemark', 'Solar', 2032);0.0
+('Dänemark', 'Solar', 2033);0.0
+('Dänemark', 'Solar', 2034);0.0
+('Dänemark', 'Solar', 2035);0.0
+('Dänemark', 'Solar', 2036);0.0
+('Dänemark', 'Solar', 2037);0.0
+('Dänemark', 'Solar', 2038);0.0
+('Dänemark', 'Solar', 2039);0.0
+('Dänemark', 'Solar', 2040);0.0
+('Dänemark', 'Wind', 2020);0.0
+('Dänemark', 'Wind', 2021);0.0
+('Dänemark', 'Wind', 2022);0.0
+('Dänemark', 'Wind', 2023);0.0
+('Dänemark', 'Wind', 2024);0.0
+('Dänemark', 'Wind', 2025);0.0
+('Dänemark', 'Wind', 2026);0.0
+('Dänemark', 'Wind', 2027);0.0
+('Dänemark', 'Wind', 2028);0.0
+('Dänemark', 'Wind', 2029);0.0
+('Dänemark', 'Wind', 2030);0.0
+('Dänemark', 'Wind', 2031);0.0
+('Dänemark', 'Wind', 2032);0.0
+('Dänemark', 'Wind', 2033);0.0
+('Dänemark', 'Wind', 2034);0.0
+('Dänemark', 'Wind', 2035);0.0
+('Dänemark', 'Wind', 2036);0.0
+('Dänemark', 'Wind', 2037);0.0
+('Dänemark', 'Wind', 2038);0.0
+('Dänemark', 'Wind', 2039);0.0
+('Dänemark', 'Wind', 2040);0.0
+('Estland', 'Biomass', 2020);0.0
+('Estland', 'Biomass', 2021);0.0
+('Estland', 'Biomass', 2022);0.0
+('Estland', 'Biomass', 2023);0.0
+('Estland', 'Biomass', 2024);0.0
+('Estland', 'Biomass', 2025);0.0
+('Estland', 'Biomass', 2026);0.0
+('Estland', 'Biomass', 2027);0.0
+('Estland', 'Biomass', 2028);0.0
+('Estland', 'Biomass', 2029);0.0
+('Estland', 'Biomass', 2030);0.0
+('Estland', 'Biomass', 2031);0.0
+('Estland', 'Biomass', 2032);0.0
+('Estland', 'Biomass', 2033);0.0
+('Estland', 'Biomass', 2034);0.0
+('Estland', 'Biomass', 2035);0.0
+('Estland', 'Biomass', 2036);0.0
+('Estland', 'Biomass', 2037);0.0
+('Estland', 'Biomass', 2038);0.0
+('Estland', 'Biomass', 2039);0.0
+('Estland', 'Biomass', 2040);0.0
+('Estland', 'Geothermal', 2020);0.0
+('Estland', 'Geothermal', 2021);0.0
+('Estland', 'Geothermal', 2022);0.0
+('Estland', 'Geothermal', 2023);0.0
+('Estland', 'Geothermal', 2024);0.0
+('Estland', 'Geothermal', 2025);0.0
+('Estland', 'Geothermal', 2026);0.0
+('Estland', 'Geothermal', 2027);0.0
+('Estland', 'Geothermal', 2028);0.0
+('Estland', 'Geothermal', 2029);0.0
+('Estland', 'Geothermal', 2030);0.0
+('Estland', 'Geothermal', 2031);0.0
+('Estland', 'Geothermal', 2032);0.0
+('Estland', 'Geothermal', 2033);0.0
+('Estland', 'Geothermal', 2034);0.0
+('Estland', 'Geothermal', 2035);0.0
+('Estland', 'Geothermal', 2036);0.0
+('Estland', 'Geothermal', 2037);0.0
+('Estland', 'Geothermal', 2038);0.0
+('Estland', 'Geothermal', 2039);0.0
+('Estland', 'Geothermal', 2040);0.0
+('Estland', 'Hydro', 2020);0.0
+('Estland', 'Hydro', 2021);0.0
+('Estland', 'Hydro', 2022);0.0
+('Estland', 'Hydro', 2023);0.0
+('Estland', 'Hydro', 2024);0.0
+('Estland', 'Hydro', 2025);0.0
+('Estland', 'Hydro', 2026);0.0
+('Estland', 'Hydro', 2027);0.0
+('Estland', 'Hydro', 2028);0.0
+('Estland', 'Hydro', 2029);0.0
+('Estland', 'Hydro', 2030);0.0
+('Estland', 'Hydro', 2031);0.0
+('Estland', 'Hydro', 2032);0.0
+('Estland', 'Hydro', 2033);0.0
+('Estland', 'Hydro', 2034);0.0
+('Estland', 'Hydro', 2035);0.0
+('Estland', 'Hydro', 2036);0.0
+('Estland', 'Hydro', 2037);0.0
+('Estland', 'Hydro', 2038);0.0
+('Estland', 'Hydro', 2039);0.0
+('Estland', 'Hydro', 2040);0.0
+('Estland', 'Other RES', 2020);0.0
+('Estland', 'Other RES', 2021);0.0
+('Estland', 'Other RES', 2022);0.0
+('Estland', 'Other RES', 2023);0.0
+('Estland', 'Other RES', 2024);0.0
+('Estland', 'Other RES', 2025);0.0
+('Estland', 'Other RES', 2026);0.0
+('Estland', 'Other RES', 2027);0.0
+('Estland', 'Other RES', 2028);0.0
+('Estland', 'Other RES', 2029);0.0
+('Estland', 'Other RES', 2030);0.0
+('Estland', 'Other RES', 2031);0.0
+('Estland', 'Other RES', 2032);0.0
+('Estland', 'Other RES', 2033);0.0
+('Estland', 'Other RES', 2034);0.0
+('Estland', 'Other RES', 2035);0.0
+('Estland', 'Other RES', 2036);0.0
+('Estland', 'Other RES', 2037);0.0
+('Estland', 'Other RES', 2038);0.0
+('Estland', 'Other RES', 2039);0.0
+('Estland', 'Other RES', 2040);0.0
+('Estland', 'Solar', 2020);0.0
+('Estland', 'Solar', 2021);0.0
+('Estland', 'Solar', 2022);0.0
+('Estland', 'Solar', 2023);0.0
+('Estland', 'Solar', 2024);0.0
+('Estland', 'Solar', 2025);0.0
+('Estland', 'Solar', 2026);0.0
+('Estland', 'Solar', 2027);0.0
+('Estland', 'Solar', 2028);0.0
+('Estland', 'Solar', 2029);0.0
+('Estland', 'Solar', 2030);0.0
+('Estland', 'Solar', 2031);0.0
+('Estland', 'Solar', 2032);0.0
+('Estland', 'Solar', 2033);0.0
+('Estland', 'Solar', 2034);0.0
+('Estland', 'Solar', 2035);0.0
+('Estland', 'Solar', 2036);0.0
+('Estland', 'Solar', 2037);0.0
+('Estland', 'Solar', 2038);0.0
+('Estland', 'Solar', 2039);0.0
+('Estland', 'Solar', 2040);0.0
+('Estland', 'Wind', 2020);0.0
+('Estland', 'Wind', 2021);0.0
+('Estland', 'Wind', 2022);0.0
+('Estland', 'Wind', 2023);0.0
+('Estland', 'Wind', 2024);0.0
+('Estland', 'Wind', 2025);0.0
+('Estland', 'Wind', 2026);0.0
+('Estland', 'Wind', 2027);0.0
+('Estland', 'Wind', 2028);0.0
+('Estland', 'Wind', 2029);0.0
+('Estland', 'Wind', 2030);0.0
+('Estland', 'Wind', 2031);0.0
+('Estland', 'Wind', 2032);0.0
+('Estland', 'Wind', 2033);0.0
+('Estland', 'Wind', 2034);0.0
+('Estland', 'Wind', 2035);0.0
+('Estland', 'Wind', 2036);0.0
+('Estland', 'Wind', 2037);0.0
+('Estland', 'Wind', 2038);0.0
+('Estland', 'Wind', 2039);0.0
+('Estland', 'Wind', 2040);0.0
+('Finnland', 'Biomass', 2020);0.0
+('Finnland', 'Biomass', 2021);0.0
+('Finnland', 'Biomass', 2022);0.0
+('Finnland', 'Biomass', 2023);0.0
+('Finnland', 'Biomass', 2024);0.0
+('Finnland', 'Biomass', 2025);0.0
+('Finnland', 'Biomass', 2026);0.0
+('Finnland', 'Biomass', 2027);0.0
+('Finnland', 'Biomass', 2028);0.0
+('Finnland', 'Biomass', 2029);0.0
+('Finnland', 'Biomass', 2030);0.0
+('Finnland', 'Biomass', 2031);0.0
+('Finnland', 'Biomass', 2032);0.0
+('Finnland', 'Biomass', 2033);0.0
+('Finnland', 'Biomass', 2034);0.0
+('Finnland', 'Biomass', 2035);0.0
+('Finnland', 'Biomass', 2036);0.0
+('Finnland', 'Biomass', 2037);0.0
+('Finnland', 'Biomass', 2038);0.0
+('Finnland', 'Biomass', 2039);0.0
+('Finnland', 'Biomass', 2040);0.0
+('Finnland', 'Geothermal', 2020);0.0
+('Finnland', 'Geothermal', 2021);0.0
+('Finnland', 'Geothermal', 2022);0.0
+('Finnland', 'Geothermal', 2023);0.0
+('Finnland', 'Geothermal', 2024);0.0
+('Finnland', 'Geothermal', 2025);0.0
+('Finnland', 'Geothermal', 2026);0.0
+('Finnland', 'Geothermal', 2027);0.0
+('Finnland', 'Geothermal', 2028);0.0
+('Finnland', 'Geothermal', 2029);0.0
+('Finnland', 'Geothermal', 2030);0.0
+('Finnland', 'Geothermal', 2031);0.0
+('Finnland', 'Geothermal', 2032);0.0
+('Finnland', 'Geothermal', 2033);0.0
+('Finnland', 'Geothermal', 2034);0.0
+('Finnland', 'Geothermal', 2035);0.0
+('Finnland', 'Geothermal', 2036);0.0
+('Finnland', 'Geothermal', 2037);0.0
+('Finnland', 'Geothermal', 2038);0.0
+('Finnland', 'Geothermal', 2039);0.0
+('Finnland', 'Geothermal', 2040);0.0
+('Finnland', 'Hydro', 2020);
+('Finnland', 'Hydro', 2021);
+('Finnland', 'Hydro', 2022);
+('Finnland', 'Hydro', 2023);
+('Finnland', 'Hydro', 2024);
+('Finnland', 'Hydro', 2025);0.0
+('Finnland', 'Hydro', 2026);0.0
+('Finnland', 'Hydro', 2027);0.0
+('Finnland', 'Hydro', 2028);0.0
+('Finnland', 'Hydro', 2029);0.0
+('Finnland', 'Hydro', 2030);0.0
+('Finnland', 'Hydro', 2031);0.0
+('Finnland', 'Hydro', 2032);0.0
+('Finnland', 'Hydro', 2033);0.0
+('Finnland', 'Hydro', 2034);0.0
+('Finnland', 'Hydro', 2035);0.0
+('Finnland', 'Hydro', 2036);0.0
+('Finnland', 'Hydro', 2037);0.0
+('Finnland', 'Hydro', 2038);0.0
+('Finnland', 'Hydro', 2039);0.0
+('Finnland', 'Hydro', 2040);0.0
+('Finnland', 'Other RES', 2020);0.0
+('Finnland', 'Other RES', 2021);0.0
+('Finnland', 'Other RES', 2022);0.0
+('Finnland', 'Other RES', 2023);0.0
+('Finnland', 'Other RES', 2024);0.0
+('Finnland', 'Other RES', 2025);0.0
+('Finnland', 'Other RES', 2026);0.0
+('Finnland', 'Other RES', 2027);0.0
+('Finnland', 'Other RES', 2028);0.0
+('Finnland', 'Other RES', 2029);0.0
+('Finnland', 'Other RES', 2030);0.0
+('Finnland', 'Other RES', 2031);0.0
+('Finnland', 'Other RES', 2032);0.0
+('Finnland', 'Other RES', 2033);0.0
+('Finnland', 'Other RES', 2034);0.0
+('Finnland', 'Other RES', 2035);0.0
+('Finnland', 'Other RES', 2036);0.0
+('Finnland', 'Other RES', 2037);0.0
+('Finnland', 'Other RES', 2038);0.0
+('Finnland', 'Other RES', 2039);0.0
+('Finnland', 'Other RES', 2040);0.0
+('Finnland', 'Solar', 2020);0.0
+('Finnland', 'Solar', 2021);0.0
+('Finnland', 'Solar', 2022);0.0
+('Finnland', 'Solar', 2023);0.0
+('Finnland', 'Solar', 2024);0.0
+('Finnland', 'Solar', 2025);0.0
+('Finnland', 'Solar', 2026);0.0
+('Finnland', 'Solar', 2027);0.0
+('Finnland', 'Solar', 2028);0.0
+('Finnland', 'Solar', 2029);0.0
+('Finnland', 'Solar', 2030);0.0
+('Finnland', 'Solar', 2031);0.0
+('Finnland', 'Solar', 2032);0.0
+('Finnland', 'Solar', 2033);0.0
+('Finnland', 'Solar', 2034);0.0
+('Finnland', 'Solar', 2035);0.0
+('Finnland', 'Solar', 2036);0.0
+('Finnland', 'Solar', 2037);0.0
+('Finnland', 'Solar', 2038);0.0
+('Finnland', 'Solar', 2039);0.0
+('Finnland', 'Solar', 2040);0.0
+('Finnland', 'Wind', 2020);0.0
+('Finnland', 'Wind', 2021);0.0
+('Finnland', 'Wind', 2022);0.0
+('Finnland', 'Wind', 2023);0.0
+('Finnland', 'Wind', 2024);0.0
+('Finnland', 'Wind', 2025);0.0
+('Finnland', 'Wind', 2026);0.0
+('Finnland', 'Wind', 2027);0.0
+('Finnland', 'Wind', 2028);0.0
+('Finnland', 'Wind', 2029);0.0
+('Finnland', 'Wind', 2030);0.0
+('Finnland', 'Wind', 2031);0.0
+('Finnland', 'Wind', 2032);0.0
+('Finnland', 'Wind', 2033);0.0
+('Finnland', 'Wind', 2034);0.0
+('Finnland', 'Wind', 2035);0.0
+('Finnland', 'Wind', 2036);0.0
+('Finnland', 'Wind', 2037);0.0
+('Finnland', 'Wind', 2038);0.0
+('Finnland', 'Wind', 2039);0.0
+('Finnland', 'Wind', 2040);0.0
+('Frankreich', 'Biomass', 2020);0.0
+('Frankreich', 'Biomass', 2021);0.0
+('Frankreich', 'Biomass', 2022);0.0
+('Frankreich', 'Biomass', 2023);0.0
+('Frankreich', 'Biomass', 2024);0.0
+('Frankreich', 'Biomass', 2025);0.0
+('Frankreich', 'Biomass', 2026);0.0
+('Frankreich', 'Biomass', 2027);0.0
+('Frankreich', 'Biomass', 2028);0.0
+('Frankreich', 'Biomass', 2029);0.0
+('Frankreich', 'Biomass', 2030);0.0
+('Frankreich', 'Biomass', 2031);0.0
+('Frankreich', 'Biomass', 2032);0.0
+('Frankreich', 'Biomass', 2033);0.0
+('Frankreich', 'Biomass', 2034);0.0
+('Frankreich', 'Biomass', 2035);0.0
+('Frankreich', 'Biomass', 2036);0.0
+('Frankreich', 'Biomass', 2037);0.0
+('Frankreich', 'Biomass', 2038);0.0
+('Frankreich', 'Biomass', 2039);0.0
+('Frankreich', 'Biomass', 2040);0.0
+('Frankreich', 'Geothermal', 2020);0.0
+('Frankreich', 'Geothermal', 2021);0.0
+('Frankreich', 'Geothermal', 2022);0.0
+('Frankreich', 'Geothermal', 2023);0.0
+('Frankreich', 'Geothermal', 2024);0.0
+('Frankreich', 'Geothermal', 2025);0.0
+('Frankreich', 'Geothermal', 2026);0.0
+('Frankreich', 'Geothermal', 2027);0.0
+('Frankreich', 'Geothermal', 2028);0.0
+('Frankreich', 'Geothermal', 2029);0.0
+('Frankreich', 'Geothermal', 2030);0.0
+('Frankreich', 'Geothermal', 2031);0.0
+('Frankreich', 'Geothermal', 2032);0.0
+('Frankreich', 'Geothermal', 2033);0.0
+('Frankreich', 'Geothermal', 2034);0.0
+('Frankreich', 'Geothermal', 2035);0.0
+('Frankreich', 'Geothermal', 2036);0.0
+('Frankreich', 'Geothermal', 2037);0.0
+('Frankreich', 'Geothermal', 2038);0.0
+('Frankreich', 'Geothermal', 2039);0.0
+('Frankreich', 'Geothermal', 2040);0.0
+('Frankreich', 'Hydro', 2020);
+('Frankreich', 'Hydro', 2021);
+('Frankreich', 'Hydro', 2022);
+('Frankreich', 'Hydro', 2023);
+('Frankreich', 'Hydro', 2024);
+('Frankreich', 'Hydro', 2025);
+('Frankreich', 'Hydro', 2026);
+('Frankreich', 'Hydro', 2027);
+('Frankreich', 'Hydro', 2028);
+('Frankreich', 'Hydro', 2029);0.0
+('Frankreich', 'Hydro', 2030);0.0
+('Frankreich', 'Hydro', 2031);0.0
+('Frankreich', 'Hydro', 2032);0.0
+('Frankreich', 'Hydro', 2033);0.0
+('Frankreich', 'Hydro', 2034);
+('Frankreich', 'Hydro', 2035);
+('Frankreich', 'Hydro', 2036);
+('Frankreich', 'Hydro', 2037);
+('Frankreich', 'Hydro', 2038);
+('Frankreich', 'Hydro', 2039);
+('Frankreich', 'Hydro', 2040);
+('Frankreich', 'Other RES', 2020);0.0
+('Frankreich', 'Other RES', 2021);0.0
+('Frankreich', 'Other RES', 2022);0.0
+('Frankreich', 'Other RES', 2023);0.0
+('Frankreich', 'Other RES', 2024);0.0
+('Frankreich', 'Other RES', 2025);0.0
+('Frankreich', 'Other RES', 2026);0.0
+('Frankreich', 'Other RES', 2027);0.0
+('Frankreich', 'Other RES', 2028);0.0
+('Frankreich', 'Other RES', 2029);0.0
+('Frankreich', 'Other RES', 2030);0.0
+('Frankreich', 'Other RES', 2031);0.0
+('Frankreich', 'Other RES', 2032);0.0
+('Frankreich', 'Other RES', 2033);0.0
+('Frankreich', 'Other RES', 2034);0.0
+('Frankreich', 'Other RES', 2035);0.0
+('Frankreich', 'Other RES', 2036);0.0
+('Frankreich', 'Other RES', 2037);0.0
+('Frankreich', 'Other RES', 2038);0.0
+('Frankreich', 'Other RES', 2039);0.0
+('Frankreich', 'Other RES', 2040);0.0
+('Frankreich', 'Solar', 2020);0.0
+('Frankreich', 'Solar', 2021);0.0
+('Frankreich', 'Solar', 2022);0.0
+('Frankreich', 'Solar', 2023);0.0
+('Frankreich', 'Solar', 2024);0.0
+('Frankreich', 'Solar', 2025);0.0
+('Frankreich', 'Solar', 2026);0.0
+('Frankreich', 'Solar', 2027);0.0
+('Frankreich', 'Solar', 2028);0.0
+('Frankreich', 'Solar', 2029);0.0
+('Frankreich', 'Solar', 2030);0.0
+('Frankreich', 'Solar', 2031);0.0
+('Frankreich', 'Solar', 2032);0.0
+('Frankreich', 'Solar', 2033);0.0
+('Frankreich', 'Solar', 2034);0.0
+('Frankreich', 'Solar', 2035);0.0
+('Frankreich', 'Solar', 2036);0.0
+('Frankreich', 'Solar', 2037);0.0
+('Frankreich', 'Solar', 2038);0.0
+('Frankreich', 'Solar', 2039);0.0
+('Frankreich', 'Solar', 2040);0.0
+('Frankreich', 'Wind', 2020);0.0
+('Frankreich', 'Wind', 2021);0.0
+('Frankreich', 'Wind', 2022);0.0
+('Frankreich', 'Wind', 2023);0.0
+('Frankreich', 'Wind', 2024);0.0
+('Frankreich', 'Wind', 2025);0.0
+('Frankreich', 'Wind', 2026);0.0
+('Frankreich', 'Wind', 2027);0.0
+('Frankreich', 'Wind', 2028);0.0
+('Frankreich', 'Wind', 2029);0.0
+('Frankreich', 'Wind', 2030);0.0
+('Frankreich', 'Wind', 2031);0.0
+('Frankreich', 'Wind', 2032);0.0
+('Frankreich', 'Wind', 2033);0.0
+('Frankreich', 'Wind', 2034);0.0
+('Frankreich', 'Wind', 2035);0.0
+('Frankreich', 'Wind', 2036);0.0
+('Frankreich', 'Wind', 2037);0.0
+('Frankreich', 'Wind', 2038);0.0
+('Frankreich', 'Wind', 2039);0.0
+('Frankreich', 'Wind', 2040);0.0
+('Deutschland', 'Biomass', 2020);0.0
+('Deutschland', 'Biomass', 2021);0.0
+('Deutschland', 'Biomass', 2022);0.0
+('Deutschland', 'Biomass', 2023);0.0
+('Deutschland', 'Biomass', 2024);0.0
+('Deutschland', 'Biomass', 2025);0.0
+('Deutschland', 'Biomass', 2026);0.0
+('Deutschland', 'Biomass', 2027);0.0
+('Deutschland', 'Biomass', 2028);0.0
+('Deutschland', 'Biomass', 2029);0.0
+('Deutschland', 'Biomass', 2030);0.0
+('Deutschland', 'Biomass', 2031);0.0
+('Deutschland', 'Biomass', 2032);0.0
+('Deutschland', 'Biomass', 2033);0.0
+('Deutschland', 'Biomass', 2034);0.0
+('Deutschland', 'Biomass', 2035);0.0
+('Deutschland', 'Biomass', 2036);0.0
+('Deutschland', 'Biomass', 2037);0.0
+('Deutschland', 'Biomass', 2038);0.0
+('Deutschland', 'Biomass', 2039);0.0
+('Deutschland', 'Biomass', 2040);0.0
+('Deutschland', 'Geothermal', 2020);0.0
+('Deutschland', 'Geothermal', 2021);0.0
+('Deutschland', 'Geothermal', 2022);0.0
+('Deutschland', 'Geothermal', 2023);0.0
+('Deutschland', 'Geothermal', 2024);0.0
+('Deutschland', 'Geothermal', 2025);0.0
+('Deutschland', 'Geothermal', 2026);0.0
+('Deutschland', 'Geothermal', 2027);0.0
+('Deutschland', 'Geothermal', 2028);0.0
+('Deutschland', 'Geothermal', 2029);0.0
+('Deutschland', 'Geothermal', 2030);0.0
+('Deutschland', 'Geothermal', 2031);0.0
+('Deutschland', 'Geothermal', 2032);0.0
+('Deutschland', 'Geothermal', 2033);0.0
+('Deutschland', 'Geothermal', 2034);0.0
+('Deutschland', 'Geothermal', 2035);0.0
+('Deutschland', 'Geothermal', 2036);0.0
+('Deutschland', 'Geothermal', 2037);0.0
+('Deutschland', 'Geothermal', 2038);0.0
+('Deutschland', 'Geothermal', 2039);0.0
+('Deutschland', 'Geothermal', 2040);0.0
+('Deutschland', 'Hydro', 2020);
+('Deutschland', 'Hydro', 2021);
+('Deutschland', 'Hydro', 2022);
+('Deutschland', 'Hydro', 2023);
+('Deutschland', 'Hydro', 2024);
+('Deutschland', 'Hydro', 2025);0.0
+('Deutschland', 'Hydro', 2026);0.0
+('Deutschland', 'Hydro', 2027);0.0
+('Deutschland', 'Hydro', 2028);0.0
+('Deutschland', 'Hydro', 2029);0.0
+('Deutschland', 'Hydro', 2030);0.0
+('Deutschland', 'Hydro', 2031);0.0
+('Deutschland', 'Hydro', 2032);0.0
+('Deutschland', 'Hydro', 2033);0.0
+('Deutschland', 'Hydro', 2034);0.0
+('Deutschland', 'Hydro', 2035);0.0
+('Deutschland', 'Hydro', 2036);0.0
+('Deutschland', 'Hydro', 2037);0.0
+('Deutschland', 'Hydro', 2038);0.0
+('Deutschland', 'Hydro', 2039);0.0
+('Deutschland', 'Hydro', 2040);0.0
+('Deutschland', 'Other RES', 2020);0.0
+('Deutschland', 'Other RES', 2021);0.0
+('Deutschland', 'Other RES', 2022);0.0
+('Deutschland', 'Other RES', 2023);0.0
+('Deutschland', 'Other RES', 2024);0.0
+('Deutschland', 'Other RES', 2025);0.0
+('Deutschland', 'Other RES', 2026);0.0
+('Deutschland', 'Other RES', 2027);0.0
+('Deutschland', 'Other RES', 2028);0.0
+('Deutschland', 'Other RES', 2029);0.0
+('Deutschland', 'Other RES', 2030);0.0
+('Deutschland', 'Other RES', 2031);0.0
+('Deutschland', 'Other RES', 2032);0.0
+('Deutschland', 'Other RES', 2033);0.0
+('Deutschland', 'Other RES', 2034);0.0
+('Deutschland', 'Other RES', 2035);0.0
+('Deutschland', 'Other RES', 2036);0.0
+('Deutschland', 'Other RES', 2037);0.0
+('Deutschland', 'Other RES', 2038);0.0
+('Deutschland', 'Other RES', 2039);0.0
+('Deutschland', 'Other RES', 2040);0.0
+('Deutschland', 'Solar', 2020);0.0
+('Deutschland', 'Solar', 2021);0.0
+('Deutschland', 'Solar', 2022);0.0
+('Deutschland', 'Solar', 2023);0.0
+('Deutschland', 'Solar', 2024);0.0
+('Deutschland', 'Solar', 2025);0.0
+('Deutschland', 'Solar', 2026);0.0
+('Deutschland', 'Solar', 2027);0.0
+('Deutschland', 'Solar', 2028);0.0
+('Deutschland', 'Solar', 2029);0.0
+('Deutschland', 'Solar', 2030);0.0
+('Deutschland', 'Solar', 2031);0.0
+('Deutschland', 'Solar', 2032);0.0
+('Deutschland', 'Solar', 2033);0.0
+('Deutschland', 'Solar', 2034);0.0
+('Deutschland', 'Solar', 2035);0.0
+('Deutschland', 'Solar', 2036);0.0
+('Deutschland', 'Solar', 2037);0.0
+('Deutschland', 'Solar', 2038);0.0
+('Deutschland', 'Solar', 2039);0.0
+('Deutschland', 'Solar', 2040);0.0
+('Deutschland', 'Wind', 2020);0.0
+('Deutschland', 'Wind', 2021);0.0
+('Deutschland', 'Wind', 2022);0.0
+('Deutschland', 'Wind', 2023);0.0
+('Deutschland', 'Wind', 2024);0.0
+('Deutschland', 'Wind', 2025);
+('Deutschland', 'Wind', 2026);
+('Deutschland', 'Wind', 2027);
+('Deutschland', 'Wind', 2028);
+('Deutschland', 'Wind', 2029);
+('Deutschland', 'Wind', 2030);
+('Deutschland', 'Wind', 2031);
+('Deutschland', 'Wind', 2032);
+('Deutschland', 'Wind', 2033);
+('Deutschland', 'Wind', 2034);
+('Deutschland', 'Wind', 2035);
+('Deutschland', 'Wind', 2036);
+('Deutschland', 'Wind', 2037);
+('Deutschland', 'Wind', 2038);
+('Deutschland', 'Wind', 2039);
+('Deutschland', 'Wind', 2040);
+('Griechenland', 'Biomass', 2020);0.0
+('Griechenland', 'Biomass', 2021);0.0
+('Griechenland', 'Biomass', 2022);0.0
+('Griechenland', 'Biomass', 2023);0.0
+('Griechenland', 'Biomass', 2024);0.0
+('Griechenland', 'Biomass', 2025);0.0
+('Griechenland', 'Biomass', 2026);0.0
+('Griechenland', 'Biomass', 2027);0.0
+('Griechenland', 'Biomass', 2028);0.0
+('Griechenland', 'Biomass', 2029);0.0
+('Griechenland', 'Biomass', 2030);0.0
+('Griechenland', 'Biomass', 2031);0.0
+('Griechenland', 'Biomass', 2032);0.0
+('Griechenland', 'Biomass', 2033);0.0
+('Griechenland', 'Biomass', 2034);0.0
+('Griechenland', 'Biomass', 2035);0.0
+('Griechenland', 'Biomass', 2036);0.0
+('Griechenland', 'Biomass', 2037);0.0
+('Griechenland', 'Biomass', 2038);0.0
+('Griechenland', 'Biomass', 2039);0.0
+('Griechenland', 'Biomass', 2040);0.0
+('Griechenland', 'Geothermal', 2020);0.0
+('Griechenland', 'Geothermal', 2021);0.0
+('Griechenland', 'Geothermal', 2022);0.0
+('Griechenland', 'Geothermal', 2023);0.0
+('Griechenland', 'Geothermal', 2024);0.0
+('Griechenland', 'Geothermal', 2025);0.0
+('Griechenland', 'Geothermal', 2026);0.0
+('Griechenland', 'Geothermal', 2027);0.0
+('Griechenland', 'Geothermal', 2028);0.0
+('Griechenland', 'Geothermal', 2029);0.0
+('Griechenland', 'Geothermal', 2030);0.0
+('Griechenland', 'Geothermal', 2031);0.0
+('Griechenland', 'Geothermal', 2032);0.0
+('Griechenland', 'Geothermal', 2033);0.0
+('Griechenland', 'Geothermal', 2034);0.0
+('Griechenland', 'Geothermal', 2035);0.0
+('Griechenland', 'Geothermal', 2036);0.0
+('Griechenland', 'Geothermal', 2037);0.0
+('Griechenland', 'Geothermal', 2038);0.0
+('Griechenland', 'Geothermal', 2039);0.0
+('Griechenland', 'Geothermal', 2040);0.0
+('Griechenland', 'Hydro', 2020);0.0
+('Griechenland', 'Hydro', 2021);0.0
+('Griechenland', 'Hydro', 2022);0.0
+('Griechenland', 'Hydro', 2023);0.0
+('Griechenland', 'Hydro', 2024);0.0
+('Griechenland', 'Hydro', 2025);0.0
+('Griechenland', 'Hydro', 2026);0.0
+('Griechenland', 'Hydro', 2027);0.0
+('Griechenland', 'Hydro', 2028);0.0
+('Griechenland', 'Hydro', 2029);0.0
+('Griechenland', 'Hydro', 2030);0.0
+('Griechenland', 'Hydro', 2031);0.0
+('Griechenland', 'Hydro', 2032);0.0
+('Griechenland', 'Hydro', 2033);0.0
+('Griechenland', 'Hydro', 2034);0.0
+('Griechenland', 'Hydro', 2035);0.0
+('Griechenland', 'Hydro', 2036);0.0
+('Griechenland', 'Hydro', 2037);0.0
+('Griechenland', 'Hydro', 2038);0.0
+('Griechenland', 'Hydro', 2039);0.0
+('Griechenland', 'Hydro', 2040);0.0
+('Griechenland', 'Other RES', 2020);0.0
+('Griechenland', 'Other RES', 2021);0.0
+('Griechenland', 'Other RES', 2022);0.0
+('Griechenland', 'Other RES', 2023);0.0
+('Griechenland', 'Other RES', 2024);0.0
+('Griechenland', 'Other RES', 2025);0.0
+('Griechenland', 'Other RES', 2026);0.0
+('Griechenland', 'Other RES', 2027);0.0
+('Griechenland', 'Other RES', 2028);0.0
+('Griechenland', 'Other RES', 2029);0.0
+('Griechenland', 'Other RES', 2030);0.0
+('Griechenland', 'Other RES', 2031);0.0
+('Griechenland', 'Other RES', 2032);0.0
+('Griechenland', 'Other RES', 2033);0.0
+('Griechenland', 'Other RES', 2034);0.0
+('Griechenland', 'Other RES', 2035);0.0
+('Griechenland', 'Other RES', 2036);0.0
+('Griechenland', 'Other RES', 2037);0.0
+('Griechenland', 'Other RES', 2038);0.0
+('Griechenland', 'Other RES', 2039);0.0
+('Griechenland', 'Other RES', 2040);0.0
+('Griechenland', 'Solar', 2020);0.0
+('Griechenland', 'Solar', 2021);0.0
+('Griechenland', 'Solar', 2022);0.0
+('Griechenland', 'Solar', 2023);0.0
+('Griechenland', 'Solar', 2024);0.0
+('Griechenland', 'Solar', 2025);0.0
+('Griechenland', 'Solar', 2026);0.0
+('Griechenland', 'Solar', 2027);0.0
+('Griechenland', 'Solar', 2028);0.0
+('Griechenland', 'Solar', 2029);0.0
+('Griechenland', 'Solar', 2030);0.0
+('Griechenland', 'Solar', 2031);0.0
+('Griechenland', 'Solar', 2032);0.0
+('Griechenland', 'Solar', 2033);0.0
+('Griechenland', 'Solar', 2034);0.0
+('Griechenland', 'Solar', 2035);0.0
+('Griechenland', 'Solar', 2036);0.0
+('Griechenland', 'Solar', 2037);0.0
+('Griechenland', 'Solar', 2038);0.0
+('Griechenland', 'Solar', 2039);0.0
+('Griechenland', 'Solar', 2040);0.0
+('Griechenland', 'Wind', 2020);0.0
+('Griechenland', 'Wind', 2021);0.0
+('Griechenland', 'Wind', 2022);0.0
+('Griechenland', 'Wind', 2023);0.0
+('Griechenland', 'Wind', 2024);0.0
+('Griechenland', 'Wind', 2025);0.0
+('Griechenland', 'Wind', 2026);0.0
+('Griechenland', 'Wind', 2027);0.0
+('Griechenland', 'Wind', 2028);0.0
+('Griechenland', 'Wind', 2029);0.0
+('Griechenland', 'Wind', 2030);0.0
+('Griechenland', 'Wind', 2031);0.0
+('Griechenland', 'Wind', 2032);0.0
+('Griechenland', 'Wind', 2033);0.0
+('Griechenland', 'Wind', 2034);0.0
+('Griechenland', 'Wind', 2035);0.0
+('Griechenland', 'Wind', 2036);0.0
+('Griechenland', 'Wind', 2037);0.0
+('Griechenland', 'Wind', 2038);0.0
+('Griechenland', 'Wind', 2039);0.0
+('Griechenland', 'Wind', 2040);0.0
+('Island', 'Biomass', 2020);0.0
+('Island', 'Biomass', 2021);0.0
+('Island', 'Biomass', 2022);0.0
+('Island', 'Biomass', 2023);0.0
+('Island', 'Biomass', 2024);0.0
+('Island', 'Biomass', 2025);0.0
+('Island', 'Biomass', 2026);0.0
+('Island', 'Biomass', 2027);0.0
+('Island', 'Biomass', 2028);0.0
+('Island', 'Biomass', 2029);0.0
+('Island', 'Biomass', 2030);0.0
+('Island', 'Biomass', 2031);0.0
+('Island', 'Biomass', 2032);0.0
+('Island', 'Biomass', 2033);0.0
+('Island', 'Biomass', 2034);0.0
+('Island', 'Biomass', 2035);0.0
+('Island', 'Biomass', 2036);0.0
+('Island', 'Biomass', 2037);0.0
+('Island', 'Biomass', 2038);0.0
+('Island', 'Biomass', 2039);0.0
+('Island', 'Biomass', 2040);0.0
+('Island', 'Geothermal', 2020);0.0
+('Island', 'Geothermal', 2021);0.0
+('Island', 'Geothermal', 2022);0.0
+('Island', 'Geothermal', 2023);0.0
+('Island', 'Geothermal', 2024);0.0
+('Island', 'Geothermal', 2025);0.0
+('Island', 'Geothermal', 2026);0.0
+('Island', 'Geothermal', 2027);0.0
+('Island', 'Geothermal', 2028);0.0
+('Island', 'Geothermal', 2029);0.0
+('Island', 'Geothermal', 2030);0.0
+('Island', 'Geothermal', 2031);0.0
+('Island', 'Geothermal', 2032);0.0
+('Island', 'Geothermal', 2033);0.0
+('Island', 'Geothermal', 2034);0.0
+('Island', 'Geothermal', 2035);0.0
+('Island', 'Geothermal', 2036);0.0
+('Island', 'Geothermal', 2037);0.0
+('Island', 'Geothermal', 2038);0.0
+('Island', 'Geothermal', 2039);0.0
+('Island', 'Geothermal', 2040);0.0
+('Island', 'Hydro', 2020);0.0
+('Island', 'Hydro', 2021);0.0
+('Island', 'Hydro', 2022);0.0
+('Island', 'Hydro', 2023);0.0
+('Island', 'Hydro', 2024);0.0
+('Island', 'Hydro', 2025);0.0
+('Island', 'Hydro', 2026);0.0
+('Island', 'Hydro', 2027);0.0
+('Island', 'Hydro', 2028);0.0
+('Island', 'Hydro', 2029);0.0
+('Island', 'Hydro', 2030);0.0
+('Island', 'Hydro', 2031);0.0
+('Island', 'Hydro', 2032);0.0
+('Island', 'Hydro', 2033);0.0
+('Island', 'Hydro', 2034);0.0
+('Island', 'Hydro', 2035);0.0
+('Island', 'Hydro', 2036);0.0
+('Island', 'Hydro', 2037);0.0
+('Island', 'Hydro', 2038);0.0
+('Island', 'Hydro', 2039);0.0
+('Island', 'Hydro', 2040);0.0
+('Island', 'Other RES', 2020);0.0
+('Island', 'Other RES', 2021);0.0
+('Island', 'Other RES', 2022);0.0
+('Island', 'Other RES', 2023);0.0
+('Island', 'Other RES', 2024);0.0
+('Island', 'Other RES', 2025);0.0
+('Island', 'Other RES', 2026);0.0
+('Island', 'Other RES', 2027);0.0
+('Island', 'Other RES', 2028);0.0
+('Island', 'Other RES', 2029);0.0
+('Island', 'Other RES', 2030);0.0
+('Island', 'Other RES', 2031);0.0
+('Island', 'Other RES', 2032);0.0
+('Island', 'Other RES', 2033);0.0
+('Island', 'Other RES', 2034);0.0
+('Island', 'Other RES', 2035);0.0
+('Island', 'Other RES', 2036);0.0
+('Island', 'Other RES', 2037);0.0
+('Island', 'Other RES', 2038);0.0
+('Island', 'Other RES', 2039);0.0
+('Island', 'Other RES', 2040);0.0
+('Island', 'Solar', 2020);0.0
+('Island', 'Solar', 2021);0.0
+('Island', 'Solar', 2022);0.0
+('Island', 'Solar', 2023);0.0
+('Island', 'Solar', 2024);0.0
+('Island', 'Solar', 2025);0.0
+('Island', 'Solar', 2026);0.0
+('Island', 'Solar', 2027);0.0
+('Island', 'Solar', 2028);0.0
+('Island', 'Solar', 2029);0.0
+('Island', 'Solar', 2030);0.0
+('Island', 'Solar', 2031);0.0
+('Island', 'Solar', 2032);0.0
+('Island', 'Solar', 2033);0.0
+('Island', 'Solar', 2034);0.0
+('Island', 'Solar', 2035);0.0
+('Island', 'Solar', 2036);0.0
+('Island', 'Solar', 2037);0.0
+('Island', 'Solar', 2038);0.0
+('Island', 'Solar', 2039);0.0
+('Island', 'Solar', 2040);0.0
+('Island', 'Wind', 2020);0.0
+('Island', 'Wind', 2021);0.0
+('Island', 'Wind', 2022);0.0
+('Island', 'Wind', 2023);0.0
+('Island', 'Wind', 2024);0.0
+('Island', 'Wind', 2025);0.0
+('Island', 'Wind', 2026);0.0
+('Island', 'Wind', 2027);0.0
+('Island', 'Wind', 2028);0.0
+('Island', 'Wind', 2029);0.0
+('Island', 'Wind', 2030);0.0
+('Island', 'Wind', 2031);0.0
+('Island', 'Wind', 2032);0.0
+('Island', 'Wind', 2033);0.0
+('Island', 'Wind', 2034);0.0
+('Island', 'Wind', 2035);0.0
+('Island', 'Wind', 2036);0.0
+('Island', 'Wind', 2037);0.0
+('Island', 'Wind', 2038);0.0
+('Island', 'Wind', 2039);0.0
+('Island', 'Wind', 2040);0.0
+('Irland', 'Biomass', 2020);0.0
+('Irland', 'Biomass', 2021);0.0
+('Irland', 'Biomass', 2022);0.0
+('Irland', 'Biomass', 2023);0.0
+('Irland', 'Biomass', 2024);0.0
+('Irland', 'Biomass', 2025);0.0
+('Irland', 'Biomass', 2026);0.0
+('Irland', 'Biomass', 2027);0.0
+('Irland', 'Biomass', 2028);0.0
+('Irland', 'Biomass', 2029);0.0
+('Irland', 'Biomass', 2030);0.0
+('Irland', 'Biomass', 2031);0.0
+('Irland', 'Biomass', 2032);0.0
+('Irland', 'Biomass', 2033);0.0
+('Irland', 'Biomass', 2034);0.0
+('Irland', 'Biomass', 2035);0.0
+('Irland', 'Biomass', 2036);0.0
+('Irland', 'Biomass', 2037);0.0
+('Irland', 'Biomass', 2038);0.0
+('Irland', 'Biomass', 2039);0.0
+('Irland', 'Biomass', 2040);0.0
+('Irland', 'Geothermal', 2020);0.0
+('Irland', 'Geothermal', 2021);0.0
+('Irland', 'Geothermal', 2022);0.0
+('Irland', 'Geothermal', 2023);0.0
+('Irland', 'Geothermal', 2024);0.0
+('Irland', 'Geothermal', 2025);0.0
+('Irland', 'Geothermal', 2026);0.0
+('Irland', 'Geothermal', 2027);0.0
+('Irland', 'Geothermal', 2028);0.0
+('Irland', 'Geothermal', 2029);0.0
+('Irland', 'Geothermal', 2030);0.0
+('Irland', 'Geothermal', 2031);0.0
+('Irland', 'Geothermal', 2032);0.0
+('Irland', 'Geothermal', 2033);0.0
+('Irland', 'Geothermal', 2034);0.0
+('Irland', 'Geothermal', 2035);0.0
+('Irland', 'Geothermal', 2036);0.0
+('Irland', 'Geothermal', 2037);0.0
+('Irland', 'Geothermal', 2038);0.0
+('Irland', 'Geothermal', 2039);0.0
+('Irland', 'Geothermal', 2040);0.0
+('Irland', 'Hydro', 2020);0.0
+('Irland', 'Hydro', 2021);0.0
+('Irland', 'Hydro', 2022);0.0
+('Irland', 'Hydro', 2023);0.0
+('Irland', 'Hydro', 2024);0.0
+('Irland', 'Hydro', 2025);0.0
+('Irland', 'Hydro', 2026);0.0
+('Irland', 'Hydro', 2027);0.0
+('Irland', 'Hydro', 2028);0.0
+('Irland', 'Hydro', 2029);0.0
+('Irland', 'Hydro', 2030);0.0
+('Irland', 'Hydro', 2031);0.0
+('Irland', 'Hydro', 2032);0.0
+('Irland', 'Hydro', 2033);0.0
+('Irland', 'Hydro', 2034);0.0
+('Irland', 'Hydro', 2035);0.0
+('Irland', 'Hydro', 2036);0.0
+('Irland', 'Hydro', 2037);0.0
+('Irland', 'Hydro', 2038);0.0
+('Irland', 'Hydro', 2039);0.0
+('Irland', 'Hydro', 2040);0.0
+('Irland', 'Other RES', 2020);0.0
+('Irland', 'Other RES', 2021);0.0
+('Irland', 'Other RES', 2022);0.0
+('Irland', 'Other RES', 2023);0.0
+('Irland', 'Other RES', 2024);0.0
+('Irland', 'Other RES', 2025);0.0
+('Irland', 'Other RES', 2026);0.0
+('Irland', 'Other RES', 2027);0.0
+('Irland', 'Other RES', 2028);0.0
+('Irland', 'Other RES', 2029);0.0
+('Irland', 'Other RES', 2030);0.0
+('Irland', 'Other RES', 2031);0.0
+('Irland', 'Other RES', 2032);0.0
+('Irland', 'Other RES', 2033);0.0
+('Irland', 'Other RES', 2034);0.0
+('Irland', 'Other RES', 2035);0.0
+('Irland', 'Other RES', 2036);0.0
+('Irland', 'Other RES', 2037);0.0
+('Irland', 'Other RES', 2038);0.0
+('Irland', 'Other RES', 2039);0.0
+('Irland', 'Other RES', 2040);0.0
+('Irland', 'Solar', 2020);0.0
+('Irland', 'Solar', 2021);0.0
+('Irland', 'Solar', 2022);0.0
+('Irland', 'Solar', 2023);0.0
+('Irland', 'Solar', 2024);0.0
+('Irland', 'Solar', 2025);0.0
+('Irland', 'Solar', 2026);0.0
+('Irland', 'Solar', 2027);0.0
+('Irland', 'Solar', 2028);0.0
+('Irland', 'Solar', 2029);0.0
+('Irland', 'Solar', 2030);0.0
+('Irland', 'Solar', 2031);0.0
+('Irland', 'Solar', 2032);0.0
+('Irland', 'Solar', 2033);0.0
+('Irland', 'Solar', 2034);0.0
+('Irland', 'Solar', 2035);0.0
+('Irland', 'Solar', 2036);0.0
+('Irland', 'Solar', 2037);0.0
+('Irland', 'Solar', 2038);0.0
+('Irland', 'Solar', 2039);0.0
+('Irland', 'Solar', 2040);0.0
+('Irland', 'Wind', 2020);0.0
+('Irland', 'Wind', 2021);0.0
+('Irland', 'Wind', 2022);0.0
+('Irland', 'Wind', 2023);0.0
+('Irland', 'Wind', 2024);0.0
+('Irland', 'Wind', 2025);0.0
+('Irland', 'Wind', 2026);0.0
+('Irland', 'Wind', 2027);0.0
+('Irland', 'Wind', 2028);0.0
+('Irland', 'Wind', 2029);0.0
+('Irland', 'Wind', 2030);0.0
+('Irland', 'Wind', 2031);0.0
+('Irland', 'Wind', 2032);0.0
+('Irland', 'Wind', 2033);0.0
+('Irland', 'Wind', 2034);0.0
+('Irland', 'Wind', 2035);0.0
+('Irland', 'Wind', 2036);0.0
+('Irland', 'Wind', 2037);0.0
+('Irland', 'Wind', 2038);0.0
+('Irland', 'Wind', 2039);0.0
+('Irland', 'Wind', 2040);0.0
+('Italien', 'Biomass', 2020);0.0
+('Italien', 'Biomass', 2021);0.0
+('Italien', 'Biomass', 2022);0.0
+('Italien', 'Biomass', 2023);0.0
+('Italien', 'Biomass', 2024);0.0
+('Italien', 'Biomass', 2025);0.0
+('Italien', 'Biomass', 2026);0.0
+('Italien', 'Biomass', 2027);0.0
+('Italien', 'Biomass', 2028);0.0
+('Italien', 'Biomass', 2029);0.0
+('Italien', 'Biomass', 2030);0.0
+('Italien', 'Biomass', 2031);0.0
+('Italien', 'Biomass', 2032);0.0
+('Italien', 'Biomass', 2033);0.0
+('Italien', 'Biomass', 2034);0.0
+('Italien', 'Biomass', 2035);0.0
+('Italien', 'Biomass', 2036);0.0
+('Italien', 'Biomass', 2037);0.0
+('Italien', 'Biomass', 2038);0.0
+('Italien', 'Biomass', 2039);0.0
+('Italien', 'Biomass', 2040);0.0
+('Italien', 'Geothermal', 2020);0.0
+('Italien', 'Geothermal', 2021);0.0
+('Italien', 'Geothermal', 2022);0.0
+('Italien', 'Geothermal', 2023);0.0
+('Italien', 'Geothermal', 2024);0.0
+('Italien', 'Geothermal', 2025);0.0
+('Italien', 'Geothermal', 2026);0.0
+('Italien', 'Geothermal', 2027);0.0
+('Italien', 'Geothermal', 2028);0.0
+('Italien', 'Geothermal', 2029);0.0
+('Italien', 'Geothermal', 2030);0.0
+('Italien', 'Geothermal', 2031);0.0
+('Italien', 'Geothermal', 2032);0.0
+('Italien', 'Geothermal', 2033);0.0
+('Italien', 'Geothermal', 2034);0.0
+('Italien', 'Geothermal', 2035);0.0
+('Italien', 'Geothermal', 2036);0.0
+('Italien', 'Geothermal', 2037);0.0
+('Italien', 'Geothermal', 2038);0.0
+('Italien', 'Geothermal', 2039);0.0
+('Italien', 'Geothermal', 2040);0.0
+('Italien', 'Hydro', 2020);
+('Italien', 'Hydro', 2021);
+('Italien', 'Hydro', 2022);
+('Italien', 'Hydro', 2023);
+('Italien', 'Hydro', 2024);
+('Italien', 'Hydro', 2025);
+('Italien', 'Hydro', 2026);
+('Italien', 'Hydro', 2027);
+('Italien', 'Hydro', 2028);
+('Italien', 'Hydro', 2029);
+('Italien', 'Hydro', 2030);
+('Italien', 'Hydro', 2031);
+('Italien', 'Hydro', 2032);
+('Italien', 'Hydro', 2033);
+('Italien', 'Hydro', 2034);
+('Italien', 'Hydro', 2035);
+('Italien', 'Hydro', 2036);
+('Italien', 'Hydro', 2037);
+('Italien', 'Hydro', 2038);
+('Italien', 'Hydro', 2039);
+('Italien', 'Hydro', 2040);
+('Italien', 'Other RES', 2020);0.0
+('Italien', 'Other RES', 2021);0.0
+('Italien', 'Other RES', 2022);0.0
+('Italien', 'Other RES', 2023);0.0
+('Italien', 'Other RES', 2024);0.0
+('Italien', 'Other RES', 2025);0.0
+('Italien', 'Other RES', 2026);0.0
+('Italien', 'Other RES', 2027);0.0
+('Italien', 'Other RES', 2028);0.0
+('Italien', 'Other RES', 2029);0.0
+('Italien', 'Other RES', 2030);0.0
+('Italien', 'Other RES', 2031);0.0
+('Italien', 'Other RES', 2032);0.0
+('Italien', 'Other RES', 2033);0.0
+('Italien', 'Other RES', 2034);0.0
+('Italien', 'Other RES', 2035);0.0
+('Italien', 'Other RES', 2036);0.0
+('Italien', 'Other RES', 2037);0.0
+('Italien', 'Other RES', 2038);0.0
+('Italien', 'Other RES', 2039);0.0
+('Italien', 'Other RES', 2040);0.0
+('Italien', 'Solar', 2020);0.0
+('Italien', 'Solar', 2021);0.0
+('Italien', 'Solar', 2022);0.0
+('Italien', 'Solar', 2023);0.0
+('Italien', 'Solar', 2024);0.0
+('Italien', 'Solar', 2025);0.0
+('Italien', 'Solar', 2026);0.0
+('Italien', 'Solar', 2027);0.0
+('Italien', 'Solar', 2028);0.0
+('Italien', 'Solar', 2029);0.0
+('Italien', 'Solar', 2030);0.0
+('Italien', 'Solar', 2031);0.0
+('Italien', 'Solar', 2032);0.0
+('Italien', 'Solar', 2033);0.0
+('Italien', 'Solar', 2034);0.0
+('Italien', 'Solar', 2035);0.0
+('Italien', 'Solar', 2036);0.0
+('Italien', 'Solar', 2037);0.0
+('Italien', 'Solar', 2038);0.0
+('Italien', 'Solar', 2039);0.0
+('Italien', 'Solar', 2040);0.0
+('Italien', 'Wind', 2020);0.0
+('Italien', 'Wind', 2021);0.0
+('Italien', 'Wind', 2022);0.0
+('Italien', 'Wind', 2023);0.0
+('Italien', 'Wind', 2024);0.0
+('Italien', 'Wind', 2025);
+('Italien', 'Wind', 2026);
+('Italien', 'Wind', 2027);
+('Italien', 'Wind', 2028);
+('Italien', 'Wind', 2029);0.0
+('Italien', 'Wind', 2030);0.0
+('Italien', 'Wind', 2031);0.0
+('Italien', 'Wind', 2032);0.0
+('Italien', 'Wind', 2033);0.0
+('Italien', 'Wind', 2034);
+('Italien', 'Wind', 2035);
+('Italien', 'Wind', 2036);
+('Italien', 'Wind', 2037);
+('Italien', 'Wind', 2038);
+('Italien', 'Wind', 2039);
+('Italien', 'Wind', 2040);
+('Litauen', 'Biomass', 2020);0.0
+('Litauen', 'Biomass', 2021);0.0
+('Litauen', 'Biomass', 2022);0.0
+('Litauen', 'Biomass', 2023);0.0
+('Litauen', 'Biomass', 2024);0.0
+('Litauen', 'Biomass', 2025);0.0
+('Litauen', 'Biomass', 2026);0.0
+('Litauen', 'Biomass', 2027);0.0
+('Litauen', 'Biomass', 2028);0.0
+('Litauen', 'Biomass', 2029);0.0
+('Litauen', 'Biomass', 2030);0.0
+('Litauen', 'Biomass', 2031);0.0
+('Litauen', 'Biomass', 2032);0.0
+('Litauen', 'Biomass', 2033);0.0
+('Litauen', 'Biomass', 2034);0.0
+('Litauen', 'Biomass', 2035);0.0
+('Litauen', 'Biomass', 2036);0.0
+('Litauen', 'Biomass', 2037);0.0
+('Litauen', 'Biomass', 2038);0.0
+('Litauen', 'Biomass', 2039);0.0
+('Litauen', 'Biomass', 2040);0.0
+('Litauen', 'Geothermal', 2020);0.0
+('Litauen', 'Geothermal', 2021);0.0
+('Litauen', 'Geothermal', 2022);0.0
+('Litauen', 'Geothermal', 2023);0.0
+('Litauen', 'Geothermal', 2024);0.0
+('Litauen', 'Geothermal', 2025);0.0
+('Litauen', 'Geothermal', 2026);0.0
+('Litauen', 'Geothermal', 2027);0.0
+('Litauen', 'Geothermal', 2028);0.0
+('Litauen', 'Geothermal', 2029);0.0
+('Litauen', 'Geothermal', 2030);0.0
+('Litauen', 'Geothermal', 2031);0.0
+('Litauen', 'Geothermal', 2032);0.0
+('Litauen', 'Geothermal', 2033);0.0
+('Litauen', 'Geothermal', 2034);0.0
+('Litauen', 'Geothermal', 2035);0.0
+('Litauen', 'Geothermal', 2036);0.0
+('Litauen', 'Geothermal', 2037);0.0
+('Litauen', 'Geothermal', 2038);0.0
+('Litauen', 'Geothermal', 2039);0.0
+('Litauen', 'Geothermal', 2040);0.0
+('Litauen', 'Hydro', 2020);0.0
+('Litauen', 'Hydro', 2021);0.0
+('Litauen', 'Hydro', 2022);0.0
+('Litauen', 'Hydro', 2023);0.0
+('Litauen', 'Hydro', 2024);0.0
+('Litauen', 'Hydro', 2025);0.0
+('Litauen', 'Hydro', 2026);0.0
+('Litauen', 'Hydro', 2027);0.0
+('Litauen', 'Hydro', 2028);0.0
+('Litauen', 'Hydro', 2029);0.0
+('Litauen', 'Hydro', 2030);0.0
+('Litauen', 'Hydro', 2031);0.0
+('Litauen', 'Hydro', 2032);0.0
+('Litauen', 'Hydro', 2033);0.0
+('Litauen', 'Hydro', 2034);0.0
+('Litauen', 'Hydro', 2035);0.0
+('Litauen', 'Hydro', 2036);0.0
+('Litauen', 'Hydro', 2037);0.0
+('Litauen', 'Hydro', 2038);0.0
+('Litauen', 'Hydro', 2039);0.0
+('Litauen', 'Hydro', 2040);0.0
+('Litauen', 'Other RES', 2020);0.0
+('Litauen', 'Other RES', 2021);0.0
+('Litauen', 'Other RES', 2022);0.0
+('Litauen', 'Other RES', 2023);0.0
+('Litauen', 'Other RES', 2024);0.0
+('Litauen', 'Other RES', 2025);0.0
+('Litauen', 'Other RES', 2026);0.0
+('Litauen', 'Other RES', 2027);0.0
+('Litauen', 'Other RES', 2028);0.0
+('Litauen', 'Other RES', 2029);0.0
+('Litauen', 'Other RES', 2030);0.0
+('Litauen', 'Other RES', 2031);0.0
+('Litauen', 'Other RES', 2032);0.0
+('Litauen', 'Other RES', 2033);0.0
+('Litauen', 'Other RES', 2034);0.0
+('Litauen', 'Other RES', 2035);0.0
+('Litauen', 'Other RES', 2036);0.0
+('Litauen', 'Other RES', 2037);0.0
+('Litauen', 'Other RES', 2038);0.0
+('Litauen', 'Other RES', 2039);0.0
+('Litauen', 'Other RES', 2040);0.0
+('Litauen', 'Solar', 2020);0.0
+('Litauen', 'Solar', 2021);0.0
+('Litauen', 'Solar', 2022);0.0
+('Litauen', 'Solar', 2023);0.0
+('Litauen', 'Solar', 2024);0.0
+('Litauen', 'Solar', 2025);0.0
+('Litauen', 'Solar', 2026);0.0
+('Litauen', 'Solar', 2027);0.0
+('Litauen', 'Solar', 2028);0.0
+('Litauen', 'Solar', 2029);0.0
+('Litauen', 'Solar', 2030);0.0
+('Litauen', 'Solar', 2031);0.0
+('Litauen', 'Solar', 2032);0.0
+('Litauen', 'Solar', 2033);0.0
+('Litauen', 'Solar', 2034);0.0
+('Litauen', 'Solar', 2035);0.0
+('Litauen', 'Solar', 2036);0.0
+('Litauen', 'Solar', 2037);0.0
+('Litauen', 'Solar', 2038);0.0
+('Litauen', 'Solar', 2039);0.0
+('Litauen', 'Solar', 2040);0.0
+('Litauen', 'Wind', 2020);0.0
+('Litauen', 'Wind', 2021);0.0
+('Litauen', 'Wind', 2022);0.0
+('Litauen', 'Wind', 2023);0.0
+('Litauen', 'Wind', 2024);0.0
+('Litauen', 'Wind', 2025);0.0
+('Litauen', 'Wind', 2026);0.0
+('Litauen', 'Wind', 2027);0.0
+('Litauen', 'Wind', 2028);0.0
+('Litauen', 'Wind', 2029);0.0
+('Litauen', 'Wind', 2030);0.0
+('Litauen', 'Wind', 2031);0.0
+('Litauen', 'Wind', 2032);0.0
+('Litauen', 'Wind', 2033);0.0
+('Litauen', 'Wind', 2034);0.0
+('Litauen', 'Wind', 2035);0.0
+('Litauen', 'Wind', 2036);0.0
+('Litauen', 'Wind', 2037);0.0
+('Litauen', 'Wind', 2038);0.0
+('Litauen', 'Wind', 2039);0.0
+('Litauen', 'Wind', 2040);0.0
+('Luxemburg', 'Biomass', 2020);0.0
+('Luxemburg', 'Biomass', 2021);0.0
+('Luxemburg', 'Biomass', 2022);0.0
+('Luxemburg', 'Biomass', 2023);0.0
+('Luxemburg', 'Biomass', 2024);0.0
+('Luxemburg', 'Biomass', 2025);0.0
+('Luxemburg', 'Biomass', 2026);0.0
+('Luxemburg', 'Biomass', 2027);0.0
+('Luxemburg', 'Biomass', 2028);0.0
+('Luxemburg', 'Biomass', 2029);0.0
+('Luxemburg', 'Biomass', 2030);0.0
+('Luxemburg', 'Biomass', 2031);0.0
+('Luxemburg', 'Biomass', 2032);0.0
+('Luxemburg', 'Biomass', 2033);0.0
+('Luxemburg', 'Biomass', 2034);0.0
+('Luxemburg', 'Biomass', 2035);0.0
+('Luxemburg', 'Biomass', 2036);0.0
+('Luxemburg', 'Biomass', 2037);0.0
+('Luxemburg', 'Biomass', 2038);0.0
+('Luxemburg', 'Biomass', 2039);0.0
+('Luxemburg', 'Biomass', 2040);0.0
+('Luxemburg', 'Geothermal', 2020);0.0
+('Luxemburg', 'Geothermal', 2021);0.0
+('Luxemburg', 'Geothermal', 2022);0.0
+('Luxemburg', 'Geothermal', 2023);0.0
+('Luxemburg', 'Geothermal', 2024);0.0
+('Luxemburg', 'Geothermal', 2025);0.0
+('Luxemburg', 'Geothermal', 2026);0.0
+('Luxemburg', 'Geothermal', 2027);0.0
+('Luxemburg', 'Geothermal', 2028);0.0
+('Luxemburg', 'Geothermal', 2029);0.0
+('Luxemburg', 'Geothermal', 2030);0.0
+('Luxemburg', 'Geothermal', 2031);0.0
+('Luxemburg', 'Geothermal', 2032);0.0
+('Luxemburg', 'Geothermal', 2033);0.0
+('Luxemburg', 'Geothermal', 2034);0.0
+('Luxemburg', 'Geothermal', 2035);0.0
+('Luxemburg', 'Geothermal', 2036);0.0
+('Luxemburg', 'Geothermal', 2037);0.0
+('Luxemburg', 'Geothermal', 2038);0.0
+('Luxemburg', 'Geothermal', 2039);0.0
+('Luxemburg', 'Geothermal', 2040);0.0
+('Luxemburg', 'Hydro', 2020);0.0
+('Luxemburg', 'Hydro', 2021);0.0
+('Luxemburg', 'Hydro', 2022);0.0
+('Luxemburg', 'Hydro', 2023);0.0
+('Luxemburg', 'Hydro', 2024);0.0
+('Luxemburg', 'Hydro', 2025);0.0
+('Luxemburg', 'Hydro', 2026);0.0
+('Luxemburg', 'Hydro', 2027);0.0
+('Luxemburg', 'Hydro', 2028);0.0
+('Luxemburg', 'Hydro', 2029);0.0
+('Luxemburg', 'Hydro', 2030);0.0
+('Luxemburg', 'Hydro', 2031);0.0
+('Luxemburg', 'Hydro', 2032);0.0
+('Luxemburg', 'Hydro', 2033);0.0
+('Luxemburg', 'Hydro', 2034);0.0
+('Luxemburg', 'Hydro', 2035);0.0
+('Luxemburg', 'Hydro', 2036);0.0
+('Luxemburg', 'Hydro', 2037);0.0
+('Luxemburg', 'Hydro', 2038);0.0
+('Luxemburg', 'Hydro', 2039);0.0
+('Luxemburg', 'Hydro', 2040);0.0
+('Luxemburg', 'Other RES', 2020);0.0
+('Luxemburg', 'Other RES', 2021);0.0
+('Luxemburg', 'Other RES', 2022);0.0
+('Luxemburg', 'Other RES', 2023);0.0
+('Luxemburg', 'Other RES', 2024);0.0
+('Luxemburg', 'Other RES', 2025);0.0
+('Luxemburg', 'Other RES', 2026);0.0
+('Luxemburg', 'Other RES', 2027);0.0
+('Luxemburg', 'Other RES', 2028);0.0
+('Luxemburg', 'Other RES', 2029);0.0
+('Luxemburg', 'Other RES', 2030);0.0
+('Luxemburg', 'Other RES', 2031);0.0
+('Luxemburg', 'Other RES', 2032);0.0
+('Luxemburg', 'Other RES', 2033);0.0
+('Luxemburg', 'Other RES', 2034);0.0
+('Luxemburg', 'Other RES', 2035);0.0
+('Luxemburg', 'Other RES', 2036);0.0
+('Luxemburg', 'Other RES', 2037);0.0
+('Luxemburg', 'Other RES', 2038);0.0
+('Luxemburg', 'Other RES', 2039);0.0
+('Luxemburg', 'Other RES', 2040);0.0
+('Luxemburg', 'Solar', 2020);0.0
+('Luxemburg', 'Solar', 2021);0.0
+('Luxemburg', 'Solar', 2022);0.0
+('Luxemburg', 'Solar', 2023);0.0
+('Luxemburg', 'Solar', 2024);0.0
+('Luxemburg', 'Solar', 2025);0.0
+('Luxemburg', 'Solar', 2026);0.0
+('Luxemburg', 'Solar', 2027);0.0
+('Luxemburg', 'Solar', 2028);0.0
+('Luxemburg', 'Solar', 2029);0.0
+('Luxemburg', 'Solar', 2030);0.0
+('Luxemburg', 'Solar', 2031);0.0
+('Luxemburg', 'Solar', 2032);0.0
+('Luxemburg', 'Solar', 2033);0.0
+('Luxemburg', 'Solar', 2034);0.0
+('Luxemburg', 'Solar', 2035);0.0
+('Luxemburg', 'Solar', 2036);0.0
+('Luxemburg', 'Solar', 2037);0.0
+('Luxemburg', 'Solar', 2038);0.0
+('Luxemburg', 'Solar', 2039);0.0
+('Luxemburg', 'Solar', 2040);0.0
+('Luxemburg', 'Wind', 2020);0.0
+('Luxemburg', 'Wind', 2021);0.0
+('Luxemburg', 'Wind', 2022);0.0
+('Luxemburg', 'Wind', 2023);0.0
+('Luxemburg', 'Wind', 2024);0.0
+('Luxemburg', 'Wind', 2025);0.0
+('Luxemburg', 'Wind', 2026);0.0
+('Luxemburg', 'Wind', 2027);0.0
+('Luxemburg', 'Wind', 2028);0.0
+('Luxemburg', 'Wind', 2029);0.0
+('Luxemburg', 'Wind', 2030);0.0
+('Luxemburg', 'Wind', 2031);0.0
+('Luxemburg', 'Wind', 2032);0.0
+('Luxemburg', 'Wind', 2033);0.0
+('Luxemburg', 'Wind', 2034);0.0
+('Luxemburg', 'Wind', 2035);0.0
+('Luxemburg', 'Wind', 2036);0.0
+('Luxemburg', 'Wind', 2037);0.0
+('Luxemburg', 'Wind', 2038);0.0
+('Luxemburg', 'Wind', 2039);0.0
+('Luxemburg', 'Wind', 2040);0.0
+('Niederlande', 'Biomass', 2020);0.0
+('Niederlande', 'Biomass', 2021);0.0
+('Niederlande', 'Biomass', 2022);0.0
+('Niederlande', 'Biomass', 2023);0.0
+('Niederlande', 'Biomass', 2024);0.0
+('Niederlande', 'Biomass', 2025);0.0
+('Niederlande', 'Biomass', 2026);0.0
+('Niederlande', 'Biomass', 2027);0.0
+('Niederlande', 'Biomass', 2028);0.0
+('Niederlande', 'Biomass', 2029);0.0
+('Niederlande', 'Biomass', 2030);0.0
+('Niederlande', 'Biomass', 2031);0.0
+('Niederlande', 'Biomass', 2032);0.0
+('Niederlande', 'Biomass', 2033);0.0
+('Niederlande', 'Biomass', 2034);0.0
+('Niederlande', 'Biomass', 2035);0.0
+('Niederlande', 'Biomass', 2036);0.0
+('Niederlande', 'Biomass', 2037);0.0
+('Niederlande', 'Biomass', 2038);0.0
+('Niederlande', 'Biomass', 2039);0.0
+('Niederlande', 'Biomass', 2040);0.0
+('Niederlande', 'Geothermal', 2020);0.0
+('Niederlande', 'Geothermal', 2021);0.0
+('Niederlande', 'Geothermal', 2022);0.0
+('Niederlande', 'Geothermal', 2023);0.0
+('Niederlande', 'Geothermal', 2024);0.0
+('Niederlande', 'Geothermal', 2025);0.0
+('Niederlande', 'Geothermal', 2026);0.0
+('Niederlande', 'Geothermal', 2027);0.0
+('Niederlande', 'Geothermal', 2028);0.0
+('Niederlande', 'Geothermal', 2029);0.0
+('Niederlande', 'Geothermal', 2030);0.0
+('Niederlande', 'Geothermal', 2031);0.0
+('Niederlande', 'Geothermal', 2032);0.0
+('Niederlande', 'Geothermal', 2033);0.0
+('Niederlande', 'Geothermal', 2034);0.0
+('Niederlande', 'Geothermal', 2035);0.0
+('Niederlande', 'Geothermal', 2036);0.0
+('Niederlande', 'Geothermal', 2037);0.0
+('Niederlande', 'Geothermal', 2038);0.0
+('Niederlande', 'Geothermal', 2039);0.0
+('Niederlande', 'Geothermal', 2040);0.0
+('Niederlande', 'Hydro', 2020);0.0
+('Niederlande', 'Hydro', 2021);0.0
+('Niederlande', 'Hydro', 2022);0.0
+('Niederlande', 'Hydro', 2023);0.0
+('Niederlande', 'Hydro', 2024);0.0
+('Niederlande', 'Hydro', 2025);0.0
+('Niederlande', 'Hydro', 2026);0.0
+('Niederlande', 'Hydro', 2027);0.0
+('Niederlande', 'Hydro', 2028);0.0
+('Niederlande', 'Hydro', 2029);0.0
+('Niederlande', 'Hydro', 2030);0.0
+('Niederlande', 'Hydro', 2031);0.0
+('Niederlande', 'Hydro', 2032);0.0
+('Niederlande', 'Hydro', 2033);0.0
+('Niederlande', 'Hydro', 2034);0.0
+('Niederlande', 'Hydro', 2035);0.0
+('Niederlande', 'Hydro', 2036);0.0
+('Niederlande', 'Hydro', 2037);0.0
+('Niederlande', 'Hydro', 2038);0.0
+('Niederlande', 'Hydro', 2039);0.0
+('Niederlande', 'Hydro', 2040);0.0
+('Niederlande', 'Other RES', 2020);0.0
+('Niederlande', 'Other RES', 2021);0.0
+('Niederlande', 'Other RES', 2022);0.0
+('Niederlande', 'Other RES', 2023);0.0
+('Niederlande', 'Other RES', 2024);0.0
+('Niederlande', 'Other RES', 2025);0.0
+('Niederlande', 'Other RES', 2026);0.0
+('Niederlande', 'Other RES', 2027);0.0
+('Niederlande', 'Other RES', 2028);0.0
+('Niederlande', 'Other RES', 2029);0.0
+('Niederlande', 'Other RES', 2030);0.0
+('Niederlande', 'Other RES', 2031);0.0
+('Niederlande', 'Other RES', 2032);0.0
+('Niederlande', 'Other RES', 2033);0.0
+('Niederlande', 'Other RES', 2034);0.0
+('Niederlande', 'Other RES', 2035);0.0
+('Niederlande', 'Other RES', 2036);0.0
+('Niederlande', 'Other RES', 2037);0.0
+('Niederlande', 'Other RES', 2038);0.0
+('Niederlande', 'Other RES', 2039);0.0
+('Niederlande', 'Other RES', 2040);0.0
+('Niederlande', 'Solar', 2020);0.0
+('Niederlande', 'Solar', 2021);0.0
+('Niederlande', 'Solar', 2022);0.0
+('Niederlande', 'Solar', 2023);0.0
+('Niederlande', 'Solar', 2024);0.0
+('Niederlande', 'Solar', 2025);0.0
+('Niederlande', 'Solar', 2026);0.0
+('Niederlande', 'Solar', 2027);0.0
+('Niederlande', 'Solar', 2028);0.0
+('Niederlande', 'Solar', 2029);0.0
+('Niederlande', 'Solar', 2030);0.0
+('Niederlande', 'Solar', 2031);0.0
+('Niederlande', 'Solar', 2032);0.0
+('Niederlande', 'Solar', 2033);0.0
+('Niederlande', 'Solar', 2034);0.0
+('Niederlande', 'Solar', 2035);0.0
+('Niederlande', 'Solar', 2036);0.0
+('Niederlande', 'Solar', 2037);0.0
+('Niederlande', 'Solar', 2038);0.0
+('Niederlande', 'Solar', 2039);0.0
+('Niederlande', 'Solar', 2040);0.0
+('Niederlande', 'Wind', 2020);0.0
+('Niederlande', 'Wind', 2021);0.0
+('Niederlande', 'Wind', 2022);0.0
+('Niederlande', 'Wind', 2023);0.0
+('Niederlande', 'Wind', 2024);0.0
+('Niederlande', 'Wind', 2025);0.0
+('Niederlande', 'Wind', 2026);0.0
+('Niederlande', 'Wind', 2027);0.0
+('Niederlande', 'Wind', 2028);0.0
+('Niederlande', 'Wind', 2029);0.0
+('Niederlande', 'Wind', 2030);0.0
+('Niederlande', 'Wind', 2031);0.0
+('Niederlande', 'Wind', 2032);0.0
+('Niederlande', 'Wind', 2033);0.0
+('Niederlande', 'Wind', 2034);0.0
+('Niederlande', 'Wind', 2035);0.0
+('Niederlande', 'Wind', 2036);0.0
+('Niederlande', 'Wind', 2037);0.0
+('Niederlande', 'Wind', 2038);0.0
+('Niederlande', 'Wind', 2039);0.0
+('Niederlande', 'Wind', 2040);0.0
+('Norwegen', 'Biomass', 2020);0.0
+('Norwegen', 'Biomass', 2021);0.0
+('Norwegen', 'Biomass', 2022);0.0
+('Norwegen', 'Biomass', 2023);0.0
+('Norwegen', 'Biomass', 2024);0.0
+('Norwegen', 'Biomass', 2025);0.0
+('Norwegen', 'Biomass', 2026);0.0
+('Norwegen', 'Biomass', 2027);0.0
+('Norwegen', 'Biomass', 2028);0.0
+('Norwegen', 'Biomass', 2029);0.0
+('Norwegen', 'Biomass', 2030);0.0
+('Norwegen', 'Biomass', 2031);0.0
+('Norwegen', 'Biomass', 2032);0.0
+('Norwegen', 'Biomass', 2033);0.0
+('Norwegen', 'Biomass', 2034);0.0
+('Norwegen', 'Biomass', 2035);0.0
+('Norwegen', 'Biomass', 2036);0.0
+('Norwegen', 'Biomass', 2037);0.0
+('Norwegen', 'Biomass', 2038);0.0
+('Norwegen', 'Biomass', 2039);0.0
+('Norwegen', 'Biomass', 2040);0.0
+('Norwegen', 'Geothermal', 2020);0.0
+('Norwegen', 'Geothermal', 2021);0.0
+('Norwegen', 'Geothermal', 2022);0.0
+('Norwegen', 'Geothermal', 2023);0.0
+('Norwegen', 'Geothermal', 2024);0.0
+('Norwegen', 'Geothermal', 2025);0.0
+('Norwegen', 'Geothermal', 2026);0.0
+('Norwegen', 'Geothermal', 2027);0.0
+('Norwegen', 'Geothermal', 2028);0.0
+('Norwegen', 'Geothermal', 2029);0.0
+('Norwegen', 'Geothermal', 2030);0.0
+('Norwegen', 'Geothermal', 2031);0.0
+('Norwegen', 'Geothermal', 2032);0.0
+('Norwegen', 'Geothermal', 2033);0.0
+('Norwegen', 'Geothermal', 2034);0.0
+('Norwegen', 'Geothermal', 2035);0.0
+('Norwegen', 'Geothermal', 2036);0.0
+('Norwegen', 'Geothermal', 2037);0.0
+('Norwegen', 'Geothermal', 2038);0.0
+('Norwegen', 'Geothermal', 2039);0.0
+('Norwegen', 'Geothermal', 2040);0.0
+('Norwegen', 'Hydro', 2020);0.0
+('Norwegen', 'Hydro', 2021);0.0
+('Norwegen', 'Hydro', 2022);0.0
+('Norwegen', 'Hydro', 2023);0.0
+('Norwegen', 'Hydro', 2024);0.0
+('Norwegen', 'Hydro', 2025);0.0
+('Norwegen', 'Hydro', 2026);0.0
+('Norwegen', 'Hydro', 2027);0.0
+('Norwegen', 'Hydro', 2028);0.0
+('Norwegen', 'Hydro', 2029);0.0
+('Norwegen', 'Hydro', 2030);0.0
+('Norwegen', 'Hydro', 2031);0.0
+('Norwegen', 'Hydro', 2032);0.0
+('Norwegen', 'Hydro', 2033);0.0
+('Norwegen', 'Hydro', 2034);0.0
+('Norwegen', 'Hydro', 2035);0.0
+('Norwegen', 'Hydro', 2036);0.0
+('Norwegen', 'Hydro', 2037);0.0
+('Norwegen', 'Hydro', 2038);0.0
+('Norwegen', 'Hydro', 2039);0.0
+('Norwegen', 'Hydro', 2040);0.0
+('Norwegen', 'Other RES', 2020);0.0
+('Norwegen', 'Other RES', 2021);0.0
+('Norwegen', 'Other RES', 2022);0.0
+('Norwegen', 'Other RES', 2023);0.0
+('Norwegen', 'Other RES', 2024);0.0
+('Norwegen', 'Other RES', 2025);0.0
+('Norwegen', 'Other RES', 2026);0.0
+('Norwegen', 'Other RES', 2027);0.0
+('Norwegen', 'Other RES', 2028);0.0
+('Norwegen', 'Other RES', 2029);0.0
+('Norwegen', 'Other RES', 2030);0.0
+('Norwegen', 'Other RES', 2031);0.0
+('Norwegen', 'Other RES', 2032);0.0
+('Norwegen', 'Other RES', 2033);0.0
+('Norwegen', 'Other RES', 2034);0.0
+('Norwegen', 'Other RES', 2035);0.0
+('Norwegen', 'Other RES', 2036);0.0
+('Norwegen', 'Other RES', 2037);0.0
+('Norwegen', 'Other RES', 2038);0.0
+('Norwegen', 'Other RES', 2039);0.0
+('Norwegen', 'Other RES', 2040);0.0
+('Norwegen', 'Solar', 2020);0.0
+('Norwegen', 'Solar', 2021);0.0
+('Norwegen', 'Solar', 2022);0.0
+('Norwegen', 'Solar', 2023);0.0
+('Norwegen', 'Solar', 2024);0.0
+('Norwegen', 'Solar', 2025);0.0
+('Norwegen', 'Solar', 2026);0.0
+('Norwegen', 'Solar', 2027);0.0
+('Norwegen', 'Solar', 2028);0.0
+('Norwegen', 'Solar', 2029);0.0
+('Norwegen', 'Solar', 2030);0.0
+('Norwegen', 'Solar', 2031);0.0
+('Norwegen', 'Solar', 2032);0.0
+('Norwegen', 'Solar', 2033);0.0
+('Norwegen', 'Solar', 2034);0.0
+('Norwegen', 'Solar', 2035);0.0
+('Norwegen', 'Solar', 2036);0.0
+('Norwegen', 'Solar', 2037);0.0
+('Norwegen', 'Solar', 2038);0.0
+('Norwegen', 'Solar', 2039);0.0
+('Norwegen', 'Solar', 2040);0.0
+('Norwegen', 'Wind', 2020);0.0
+('Norwegen', 'Wind', 2021);0.0
+('Norwegen', 'Wind', 2022);0.0
+('Norwegen', 'Wind', 2023);0.0
+('Norwegen', 'Wind', 2024);0.0
+('Norwegen', 'Wind', 2025);0.0
+('Norwegen', 'Wind', 2026);0.0
+('Norwegen', 'Wind', 2027);0.0
+('Norwegen', 'Wind', 2028);0.0
+('Norwegen', 'Wind', 2029);0.0
+('Norwegen', 'Wind', 2030);0.0
+('Norwegen', 'Wind', 2031);0.0
+('Norwegen', 'Wind', 2032);0.0
+('Norwegen', 'Wind', 2033);0.0
+('Norwegen', 'Wind', 2034);0.0
+('Norwegen', 'Wind', 2035);0.0
+('Norwegen', 'Wind', 2036);0.0
+('Norwegen', 'Wind', 2037);0.0
+('Norwegen', 'Wind', 2038);0.0
+('Norwegen', 'Wind', 2039);0.0
+('Norwegen', 'Wind', 2040);0.0
+('Portugal', 'Biomass', 2020);0.0
+('Portugal', 'Biomass', 2021);0.0
+('Portugal', 'Biomass', 2022);0.0
+('Portugal', 'Biomass', 2023);0.0
+('Portugal', 'Biomass', 2024);0.0
+('Portugal', 'Biomass', 2025);0.0
+('Portugal', 'Biomass', 2026);0.0
+('Portugal', 'Biomass', 2027);0.0
+('Portugal', 'Biomass', 2028);0.0
+('Portugal', 'Biomass', 2029);0.0
+('Portugal', 'Biomass', 2030);0.0
+('Portugal', 'Biomass', 2031);0.0
+('Portugal', 'Biomass', 2032);0.0
+('Portugal', 'Biomass', 2033);0.0
+('Portugal', 'Biomass', 2034);0.0
+('Portugal', 'Biomass', 2035);0.0
+('Portugal', 'Biomass', 2036);0.0
+('Portugal', 'Biomass', 2037);0.0
+('Portugal', 'Biomass', 2038);0.0
+('Portugal', 'Biomass', 2039);0.0
+('Portugal', 'Biomass', 2040);0.0
+('Portugal', 'Geothermal', 2020);0.0
+('Portugal', 'Geothermal', 2021);0.0
+('Portugal', 'Geothermal', 2022);0.0
+('Portugal', 'Geothermal', 2023);0.0
+('Portugal', 'Geothermal', 2024);0.0
+('Portugal', 'Geothermal', 2025);0.0
+('Portugal', 'Geothermal', 2026);0.0
+('Portugal', 'Geothermal', 2027);0.0
+('Portugal', 'Geothermal', 2028);0.0
+('Portugal', 'Geothermal', 2029);0.0
+('Portugal', 'Geothermal', 2030);0.0
+('Portugal', 'Geothermal', 2031);0.0
+('Portugal', 'Geothermal', 2032);0.0
+('Portugal', 'Geothermal', 2033);0.0
+('Portugal', 'Geothermal', 2034);0.0
+('Portugal', 'Geothermal', 2035);0.0
+('Portugal', 'Geothermal', 2036);0.0
+('Portugal', 'Geothermal', 2037);0.0
+('Portugal', 'Geothermal', 2038);0.0
+('Portugal', 'Geothermal', 2039);0.0
+('Portugal', 'Geothermal', 2040);0.0
+('Portugal', 'Hydro', 2020);0.0
+('Portugal', 'Hydro', 2021);0.0
+('Portugal', 'Hydro', 2022);0.0
+('Portugal', 'Hydro', 2023);0.0
+('Portugal', 'Hydro', 2024);0.0
+('Portugal', 'Hydro', 2025);0.0
+('Portugal', 'Hydro', 2026);0.0
+('Portugal', 'Hydro', 2027);0.0
+('Portugal', 'Hydro', 2028);0.0
+('Portugal', 'Hydro', 2029);0.0
+('Portugal', 'Hydro', 2030);0.0
+('Portugal', 'Hydro', 2031);0.0
+('Portugal', 'Hydro', 2032);0.0
+('Portugal', 'Hydro', 2033);0.0
+('Portugal', 'Hydro', 2034);0.0
+('Portugal', 'Hydro', 2035);0.0
+('Portugal', 'Hydro', 2036);0.0
+('Portugal', 'Hydro', 2037);0.0
+('Portugal', 'Hydro', 2038);0.0
+('Portugal', 'Hydro', 2039);0.0
+('Portugal', 'Hydro', 2040);0.0
+('Portugal', 'Other RES', 2020);0.0
+('Portugal', 'Other RES', 2021);0.0
+('Portugal', 'Other RES', 2022);0.0
+('Portugal', 'Other RES', 2023);0.0
+('Portugal', 'Other RES', 2024);0.0
+('Portugal', 'Other RES', 2025);0.0
+('Portugal', 'Other RES', 2026);0.0
+('Portugal', 'Other RES', 2027);0.0
+('Portugal', 'Other RES', 2028);0.0
+('Portugal', 'Other RES', 2029);0.0
+('Portugal', 'Other RES', 2030);0.0
+('Portugal', 'Other RES', 2031);0.0
+('Portugal', 'Other RES', 2032);0.0
+('Portugal', 'Other RES', 2033);0.0
+('Portugal', 'Other RES', 2034);0.0
+('Portugal', 'Other RES', 2035);0.0
+('Portugal', 'Other RES', 2036);0.0
+('Portugal', 'Other RES', 2037);0.0
+('Portugal', 'Other RES', 2038);0.0
+('Portugal', 'Other RES', 2039);0.0
+('Portugal', 'Other RES', 2040);0.0
+('Portugal', 'Solar', 2020);0.0
+('Portugal', 'Solar', 2021);0.0
+('Portugal', 'Solar', 2022);0.0
+('Portugal', 'Solar', 2023);0.0
+('Portugal', 'Solar', 2024);0.0
+('Portugal', 'Solar', 2025);0.0
+('Portugal', 'Solar', 2026);0.0
+('Portugal', 'Solar', 2027);0.0
+('Portugal', 'Solar', 2028);0.0
+('Portugal', 'Solar', 2029);0.0
+('Portugal', 'Solar', 2030);0.0
+('Portugal', 'Solar', 2031);0.0
+('Portugal', 'Solar', 2032);0.0
+('Portugal', 'Solar', 2033);0.0
+('Portugal', 'Solar', 2034);0.0
+('Portugal', 'Solar', 2035);0.0
+('Portugal', 'Solar', 2036);0.0
+('Portugal', 'Solar', 2037);0.0
+('Portugal', 'Solar', 2038);0.0
+('Portugal', 'Solar', 2039);0.0
+('Portugal', 'Solar', 2040);0.0
+('Portugal', 'Wind', 2020);0.0
+('Portugal', 'Wind', 2021);0.0
+('Portugal', 'Wind', 2022);0.0
+('Portugal', 'Wind', 2023);0.0
+('Portugal', 'Wind', 2024);0.0
+('Portugal', 'Wind', 2025);0.0
+('Portugal', 'Wind', 2026);0.0
+('Portugal', 'Wind', 2027);0.0
+('Portugal', 'Wind', 2028);0.0
+('Portugal', 'Wind', 2029);0.0
+('Portugal', 'Wind', 2030);0.0
+('Portugal', 'Wind', 2031);0.0
+('Portugal', 'Wind', 2032);0.0
+('Portugal', 'Wind', 2033);0.0
+('Portugal', 'Wind', 2034);0.0
+('Portugal', 'Wind', 2035);0.0
+('Portugal', 'Wind', 2036);0.0
+('Portugal', 'Wind', 2037);0.0
+('Portugal', 'Wind', 2038);0.0
+('Portugal', 'Wind', 2039);0.0
+('Portugal', 'Wind', 2040);0.0
+('Serbien', 'Biomass', 2020);0.0
+('Serbien', 'Biomass', 2021);0.0
+('Serbien', 'Biomass', 2022);0.0
+('Serbien', 'Biomass', 2023);0.0
+('Serbien', 'Biomass', 2024);0.0
+('Serbien', 'Biomass', 2025);0.0
+('Serbien', 'Biomass', 2026);0.0
+('Serbien', 'Biomass', 2027);0.0
+('Serbien', 'Biomass', 2028);0.0
+('Serbien', 'Biomass', 2029);0.0
+('Serbien', 'Biomass', 2030);0.0
+('Serbien', 'Biomass', 2031);0.0
+('Serbien', 'Biomass', 2032);0.0
+('Serbien', 'Biomass', 2033);0.0
+('Serbien', 'Biomass', 2034);0.0
+('Serbien', 'Biomass', 2035);0.0
+('Serbien', 'Biomass', 2036);0.0
+('Serbien', 'Biomass', 2037);0.0
+('Serbien', 'Biomass', 2038);0.0
+('Serbien', 'Biomass', 2039);0.0
+('Serbien', 'Biomass', 2040);0.0
+('Serbien', 'Geothermal', 2020);0.0
+('Serbien', 'Geothermal', 2021);0.0
+('Serbien', 'Geothermal', 2022);0.0
+('Serbien', 'Geothermal', 2023);0.0
+('Serbien', 'Geothermal', 2024);0.0
+('Serbien', 'Geothermal', 2025);0.0
+('Serbien', 'Geothermal', 2026);0.0
+('Serbien', 'Geothermal', 2027);0.0
+('Serbien', 'Geothermal', 2028);0.0
+('Serbien', 'Geothermal', 2029);0.0
+('Serbien', 'Geothermal', 2030);0.0
+('Serbien', 'Geothermal', 2031);0.0
+('Serbien', 'Geothermal', 2032);0.0
+('Serbien', 'Geothermal', 2033);0.0
+('Serbien', 'Geothermal', 2034);0.0
+('Serbien', 'Geothermal', 2035);0.0
+('Serbien', 'Geothermal', 2036);0.0
+('Serbien', 'Geothermal', 2037);0.0
+('Serbien', 'Geothermal', 2038);0.0
+('Serbien', 'Geothermal', 2039);0.0
+('Serbien', 'Geothermal', 2040);0.0
+('Serbien', 'Hydro', 2020);0.0
+('Serbien', 'Hydro', 2021);0.0
+('Serbien', 'Hydro', 2022);0.0
+('Serbien', 'Hydro', 2023);0.0
+('Serbien', 'Hydro', 2024);0.0
+('Serbien', 'Hydro', 2025);0.0
+('Serbien', 'Hydro', 2026);0.0
+('Serbien', 'Hydro', 2027);0.0
+('Serbien', 'Hydro', 2028);0.0
+('Serbien', 'Hydro', 2029);0.0
+('Serbien', 'Hydro', 2030);0.0
+('Serbien', 'Hydro', 2031);0.0
+('Serbien', 'Hydro', 2032);0.0
+('Serbien', 'Hydro', 2033);0.0
+('Serbien', 'Hydro', 2034);0.0
+('Serbien', 'Hydro', 2035);0.0
+('Serbien', 'Hydro', 2036);0.0
+('Serbien', 'Hydro', 2037);0.0
+('Serbien', 'Hydro', 2038);0.0
+('Serbien', 'Hydro', 2039);0.0
+('Serbien', 'Hydro', 2040);0.0
+('Serbien', 'Other RES', 2020);0.0
+('Serbien', 'Other RES', 2021);0.0
+('Serbien', 'Other RES', 2022);0.0
+('Serbien', 'Other RES', 2023);0.0
+('Serbien', 'Other RES', 2024);0.0
+('Serbien', 'Other RES', 2025);0.0
+('Serbien', 'Other RES', 2026);0.0
+('Serbien', 'Other RES', 2027);0.0
+('Serbien', 'Other RES', 2028);0.0
+('Serbien', 'Other RES', 2029);0.0
+('Serbien', 'Other RES', 2030);0.0
+('Serbien', 'Other RES', 2031);0.0
+('Serbien', 'Other RES', 2032);0.0
+('Serbien', 'Other RES', 2033);0.0
+('Serbien', 'Other RES', 2034);0.0
+('Serbien', 'Other RES', 2035);0.0
+('Serbien', 'Other RES', 2036);0.0
+('Serbien', 'Other RES', 2037);0.0
+('Serbien', 'Other RES', 2038);0.0
+('Serbien', 'Other RES', 2039);0.0
+('Serbien', 'Other RES', 2040);0.0
+('Serbien', 'Solar', 2020);0.0
+('Serbien', 'Solar', 2021);0.0
+('Serbien', 'Solar', 2022);0.0
+('Serbien', 'Solar', 2023);0.0
+('Serbien', 'Solar', 2024);0.0
+('Serbien', 'Solar', 2025);0.0
+('Serbien', 'Solar', 2026);0.0
+('Serbien', 'Solar', 2027);0.0
+('Serbien', 'Solar', 2028);0.0
+('Serbien', 'Solar', 2029);0.0
+('Serbien', 'Solar', 2030);0.0
+('Serbien', 'Solar', 2031);0.0
+('Serbien', 'Solar', 2032);0.0
+('Serbien', 'Solar', 2033);0.0
+('Serbien', 'Solar', 2034);0.0
+('Serbien', 'Solar', 2035);0.0
+('Serbien', 'Solar', 2036);0.0
+('Serbien', 'Solar', 2037);0.0
+('Serbien', 'Solar', 2038);0.0
+('Serbien', 'Solar', 2039);0.0
+('Serbien', 'Solar', 2040);0.0
+('Serbien', 'Wind', 2020);0.0
+('Serbien', 'Wind', 2021);0.0
+('Serbien', 'Wind', 2022);0.0
+('Serbien', 'Wind', 2023);0.0
+('Serbien', 'Wind', 2024);0.0
+('Serbien', 'Wind', 2025);0.0
+('Serbien', 'Wind', 2026);0.0
+('Serbien', 'Wind', 2027);0.0
+('Serbien', 'Wind', 2028);0.0
+('Serbien', 'Wind', 2029);0.0
+('Serbien', 'Wind', 2030);0.0
+('Serbien', 'Wind', 2031);0.0
+('Serbien', 'Wind', 2032);0.0
+('Serbien', 'Wind', 2033);0.0
+('Serbien', 'Wind', 2034);0.0
+('Serbien', 'Wind', 2035);0.0
+('Serbien', 'Wind', 2036);0.0
+('Serbien', 'Wind', 2037);0.0
+('Serbien', 'Wind', 2038);0.0
+('Serbien', 'Wind', 2039);0.0
+('Serbien', 'Wind', 2040);0.0
+('Slowakei', 'Biomass', 2020);0.0
+('Slowakei', 'Biomass', 2021);0.0
+('Slowakei', 'Biomass', 2022);0.0
+('Slowakei', 'Biomass', 2023);0.0
+('Slowakei', 'Biomass', 2024);0.0
+('Slowakei', 'Biomass', 2025);0.0
+('Slowakei', 'Biomass', 2026);0.0
+('Slowakei', 'Biomass', 2027);0.0
+('Slowakei', 'Biomass', 2028);0.0
+('Slowakei', 'Biomass', 2029);0.0
+('Slowakei', 'Biomass', 2030);0.0
+('Slowakei', 'Biomass', 2031);0.0
+('Slowakei', 'Biomass', 2032);0.0
+('Slowakei', 'Biomass', 2033);0.0
+('Slowakei', 'Biomass', 2034);0.0
+('Slowakei', 'Biomass', 2035);0.0
+('Slowakei', 'Biomass', 2036);0.0
+('Slowakei', 'Biomass', 2037);0.0
+('Slowakei', 'Biomass', 2038);0.0
+('Slowakei', 'Biomass', 2039);0.0
+('Slowakei', 'Biomass', 2040);0.0
+('Slowakei', 'Geothermal', 2020);0.0
+('Slowakei', 'Geothermal', 2021);0.0
+('Slowakei', 'Geothermal', 2022);0.0
+('Slowakei', 'Geothermal', 2023);0.0
+('Slowakei', 'Geothermal', 2024);0.0
+('Slowakei', 'Geothermal', 2025);0.0
+('Slowakei', 'Geothermal', 2026);0.0
+('Slowakei', 'Geothermal', 2027);0.0
+('Slowakei', 'Geothermal', 2028);0.0
+('Slowakei', 'Geothermal', 2029);0.0
+('Slowakei', 'Geothermal', 2030);0.0
+('Slowakei', 'Geothermal', 2031);0.0
+('Slowakei', 'Geothermal', 2032);0.0
+('Slowakei', 'Geothermal', 2033);0.0
+('Slowakei', 'Geothermal', 2034);0.0
+('Slowakei', 'Geothermal', 2035);0.0
+('Slowakei', 'Geothermal', 2036);0.0
+('Slowakei', 'Geothermal', 2037);0.0
+('Slowakei', 'Geothermal', 2038);0.0
+('Slowakei', 'Geothermal', 2039);0.0
+('Slowakei', 'Geothermal', 2040);0.0
+('Slowakei', 'Hydro', 2020);0.0
+('Slowakei', 'Hydro', 2021);0.0
+('Slowakei', 'Hydro', 2022);0.0
+('Slowakei', 'Hydro', 2023);0.0
+('Slowakei', 'Hydro', 2024);0.0
+('Slowakei', 'Hydro', 2025);0.0
+('Slowakei', 'Hydro', 2026);0.0
+('Slowakei', 'Hydro', 2027);0.0
+('Slowakei', 'Hydro', 2028);0.0
+('Slowakei', 'Hydro', 2029);0.0
+('Slowakei', 'Hydro', 2030);0.0
+('Slowakei', 'Hydro', 2031);0.0
+('Slowakei', 'Hydro', 2032);0.0
+('Slowakei', 'Hydro', 2033);0.0
+('Slowakei', 'Hydro', 2034);0.0
+('Slowakei', 'Hydro', 2035);0.0
+('Slowakei', 'Hydro', 2036);0.0
+('Slowakei', 'Hydro', 2037);0.0
+('Slowakei', 'Hydro', 2038);0.0
+('Slowakei', 'Hydro', 2039);0.0
+('Slowakei', 'Hydro', 2040);0.0
+('Slowakei', 'Other RES', 2020);0.0
+('Slowakei', 'Other RES', 2021);0.0
+('Slowakei', 'Other RES', 2022);0.0
+('Slowakei', 'Other RES', 2023);0.0
+('Slowakei', 'Other RES', 2024);0.0
+('Slowakei', 'Other RES', 2025);0.0
+('Slowakei', 'Other RES', 2026);0.0
+('Slowakei', 'Other RES', 2027);0.0
+('Slowakei', 'Other RES', 2028);0.0
+('Slowakei', 'Other RES', 2029);0.0
+('Slowakei', 'Other RES', 2030);0.0
+('Slowakei', 'Other RES', 2031);0.0
+('Slowakei', 'Other RES', 2032);0.0
+('Slowakei', 'Other RES', 2033);0.0
+('Slowakei', 'Other RES', 2034);0.0
+('Slowakei', 'Other RES', 2035);0.0
+('Slowakei', 'Other RES', 2036);0.0
+('Slowakei', 'Other RES', 2037);0.0
+('Slowakei', 'Other RES', 2038);0.0
+('Slowakei', 'Other RES', 2039);0.0
+('Slowakei', 'Other RES', 2040);0.0
+('Slowakei', 'Solar', 2020);0.0
+('Slowakei', 'Solar', 2021);0.0
+('Slowakei', 'Solar', 2022);0.0
+('Slowakei', 'Solar', 2023);0.0
+('Slowakei', 'Solar', 2024);0.0
+('Slowakei', 'Solar', 2025);0.0
+('Slowakei', 'Solar', 2026);0.0
+('Slowakei', 'Solar', 2027);0.0
+('Slowakei', 'Solar', 2028);0.0
+('Slowakei', 'Solar', 2029);0.0
+('Slowakei', 'Solar', 2030);0.0
+('Slowakei', 'Solar', 2031);0.0
+('Slowakei', 'Solar', 2032);0.0
+('Slowakei', 'Solar', 2033);0.0
+('Slowakei', 'Solar', 2034);0.0
+('Slowakei', 'Solar', 2035);0.0
+('Slowakei', 'Solar', 2036);0.0
+('Slowakei', 'Solar', 2037);0.0
+('Slowakei', 'Solar', 2038);0.0
+('Slowakei', 'Solar', 2039);0.0
+('Slowakei', 'Solar', 2040);0.0
+('Slowakei', 'Wind', 2020);0.0
+('Slowakei', 'Wind', 2021);0.0
+('Slowakei', 'Wind', 2022);0.0
+('Slowakei', 'Wind', 2023);0.0
+('Slowakei', 'Wind', 2024);0.0
+('Slowakei', 'Wind', 2025);0.0
+('Slowakei', 'Wind', 2026);0.0
+('Slowakei', 'Wind', 2027);0.0
+('Slowakei', 'Wind', 2028);0.0
+('Slowakei', 'Wind', 2029);0.0
+('Slowakei', 'Wind', 2030);0.0
+('Slowakei', 'Wind', 2031);0.0
+('Slowakei', 'Wind', 2032);0.0
+('Slowakei', 'Wind', 2033);0.0
+('Slowakei', 'Wind', 2034);0.0
+('Slowakei', 'Wind', 2035);0.0
+('Slowakei', 'Wind', 2036);0.0
+('Slowakei', 'Wind', 2037);0.0
+('Slowakei', 'Wind', 2038);0.0
+('Slowakei', 'Wind', 2039);0.0
+('Slowakei', 'Wind', 2040);0.0
+('Slowenien', 'Biomass', 2020);0.0
+('Slowenien', 'Biomass', 2021);0.0
+('Slowenien', 'Biomass', 2022);0.0
+('Slowenien', 'Biomass', 2023);0.0
+('Slowenien', 'Biomass', 2024);0.0
+('Slowenien', 'Biomass', 2025);0.0
+('Slowenien', 'Biomass', 2026);0.0
+('Slowenien', 'Biomass', 2027);0.0
+('Slowenien', 'Biomass', 2028);0.0
+('Slowenien', 'Biomass', 2029);0.0
+('Slowenien', 'Biomass', 2030);0.0
+('Slowenien', 'Biomass', 2031);0.0
+('Slowenien', 'Biomass', 2032);0.0
+('Slowenien', 'Biomass', 2033);0.0
+('Slowenien', 'Biomass', 2034);0.0
+('Slowenien', 'Biomass', 2035);0.0
+('Slowenien', 'Biomass', 2036);0.0
+('Slowenien', 'Biomass', 2037);0.0
+('Slowenien', 'Biomass', 2038);0.0
+('Slowenien', 'Biomass', 2039);0.0
+('Slowenien', 'Biomass', 2040);0.0
+('Slowenien', 'Geothermal', 2020);0.0
+('Slowenien', 'Geothermal', 2021);0.0
+('Slowenien', 'Geothermal', 2022);0.0
+('Slowenien', 'Geothermal', 2023);0.0
+('Slowenien', 'Geothermal', 2024);0.0
+('Slowenien', 'Geothermal', 2025);0.0
+('Slowenien', 'Geothermal', 2026);0.0
+('Slowenien', 'Geothermal', 2027);0.0
+('Slowenien', 'Geothermal', 2028);0.0
+('Slowenien', 'Geothermal', 2029);0.0
+('Slowenien', 'Geothermal', 2030);0.0
+('Slowenien', 'Geothermal', 2031);0.0
+('Slowenien', 'Geothermal', 2032);0.0
+('Slowenien', 'Geothermal', 2033);0.0
+('Slowenien', 'Geothermal', 2034);0.0
+('Slowenien', 'Geothermal', 2035);0.0
+('Slowenien', 'Geothermal', 2036);0.0
+('Slowenien', 'Geothermal', 2037);0.0
+('Slowenien', 'Geothermal', 2038);0.0
+('Slowenien', 'Geothermal', 2039);0.0
+('Slowenien', 'Geothermal', 2040);0.0
+('Slowenien', 'Hydro', 2020);0.0
+('Slowenien', 'Hydro', 2021);0.0
+('Slowenien', 'Hydro', 2022);0.0
+('Slowenien', 'Hydro', 2023);0.0
+('Slowenien', 'Hydro', 2024);0.0
+('Slowenien', 'Hydro', 2025);0.0
+('Slowenien', 'Hydro', 2026);0.0
+('Slowenien', 'Hydro', 2027);0.0
+('Slowenien', 'Hydro', 2028);0.0
+('Slowenien', 'Hydro', 2029);0.0
+('Slowenien', 'Hydro', 2030);0.0
+('Slowenien', 'Hydro', 2031);0.0
+('Slowenien', 'Hydro', 2032);0.0
+('Slowenien', 'Hydro', 2033);0.0
+('Slowenien', 'Hydro', 2034);0.0
+('Slowenien', 'Hydro', 2035);0.0
+('Slowenien', 'Hydro', 2036);0.0
+('Slowenien', 'Hydro', 2037);0.0
+('Slowenien', 'Hydro', 2038);0.0
+('Slowenien', 'Hydro', 2039);0.0
+('Slowenien', 'Hydro', 2040);0.0
+('Slowenien', 'Other RES', 2020);0.0
+('Slowenien', 'Other RES', 2021);0.0
+('Slowenien', 'Other RES', 2022);0.0
+('Slowenien', 'Other RES', 2023);0.0
+('Slowenien', 'Other RES', 2024);0.0
+('Slowenien', 'Other RES', 2025);0.0
+('Slowenien', 'Other RES', 2026);0.0
+('Slowenien', 'Other RES', 2027);0.0
+('Slowenien', 'Other RES', 2028);0.0
+('Slowenien', 'Other RES', 2029);0.0
+('Slowenien', 'Other RES', 2030);0.0
+('Slowenien', 'Other RES', 2031);0.0
+('Slowenien', 'Other RES', 2032);0.0
+('Slowenien', 'Other RES', 2033);0.0
+('Slowenien', 'Other RES', 2034);0.0
+('Slowenien', 'Other RES', 2035);0.0
+('Slowenien', 'Other RES', 2036);0.0
+('Slowenien', 'Other RES', 2037);0.0
+('Slowenien', 'Other RES', 2038);0.0
+('Slowenien', 'Other RES', 2039);0.0
+('Slowenien', 'Other RES', 2040);0.0
+('Slowenien', 'Solar', 2020);0.0
+('Slowenien', 'Solar', 2021);0.0
+('Slowenien', 'Solar', 2022);0.0
+('Slowenien', 'Solar', 2023);0.0
+('Slowenien', 'Solar', 2024);0.0
+('Slowenien', 'Solar', 2025);0.0
+('Slowenien', 'Solar', 2026);0.0
+('Slowenien', 'Solar', 2027);0.0
+('Slowenien', 'Solar', 2028);0.0
+('Slowenien', 'Solar', 2029);0.0
+('Slowenien', 'Solar', 2030);0.0
+('Slowenien', 'Solar', 2031);0.0
+('Slowenien', 'Solar', 2032);0.0
+('Slowenien', 'Solar', 2033);0.0
+('Slowenien', 'Solar', 2034);0.0
+('Slowenien', 'Solar', 2035);0.0
+('Slowenien', 'Solar', 2036);0.0
+('Slowenien', 'Solar', 2037);0.0
+('Slowenien', 'Solar', 2038);0.0
+('Slowenien', 'Solar', 2039);0.0
+('Slowenien', 'Solar', 2040);0.0
+('Slowenien', 'Wind', 2020);0.0
+('Slowenien', 'Wind', 2021);0.0
+('Slowenien', 'Wind', 2022);0.0
+('Slowenien', 'Wind', 2023);0.0
+('Slowenien', 'Wind', 2024);0.0
+('Slowenien', 'Wind', 2025);0.0
+('Slowenien', 'Wind', 2026);0.0
+('Slowenien', 'Wind', 2027);0.0
+('Slowenien', 'Wind', 2028);0.0
+('Slowenien', 'Wind', 2029);0.0
+('Slowenien', 'Wind', 2030);0.0
+('Slowenien', 'Wind', 2031);0.0
+('Slowenien', 'Wind', 2032);0.0
+('Slowenien', 'Wind', 2033);0.0
+('Slowenien', 'Wind', 2034);0.0
+('Slowenien', 'Wind', 2035);0.0
+('Slowenien', 'Wind', 2036);0.0
+('Slowenien', 'Wind', 2037);0.0
+('Slowenien', 'Wind', 2038);0.0
+('Slowenien', 'Wind', 2039);0.0
+('Slowenien', 'Wind', 2040);0.0
+('Spanien', 'Biomass', 2020);0.0
+('Spanien', 'Biomass', 2021);0.0
+('Spanien', 'Biomass', 2022);0.0
+('Spanien', 'Biomass', 2023);0.0
+('Spanien', 'Biomass', 2024);0.0
+('Spanien', 'Biomass', 2025);
+('Spanien', 'Biomass', 2026);
+('Spanien', 'Biomass', 2027);
+('Spanien', 'Biomass', 2028);0.0
+('Spanien', 'Biomass', 2029);0.0
+('Spanien', 'Biomass', 2030);0.0
+('Spanien', 'Biomass', 2031);0.0
+('Spanien', 'Biomass', 2032);0.0
+('Spanien', 'Biomass', 2033);0.0
+('Spanien', 'Biomass', 2034);0.0
+('Spanien', 'Biomass', 2035);0.0
+('Spanien', 'Biomass', 2036);0.0
+('Spanien', 'Biomass', 2037);0.0
+('Spanien', 'Biomass', 2038);0.0
+('Spanien', 'Biomass', 2039);0.0
+('Spanien', 'Biomass', 2040);0.0
+('Spanien', 'Geothermal', 2020);0.0
+('Spanien', 'Geothermal', 2021);0.0
+('Spanien', 'Geothermal', 2022);0.0
+('Spanien', 'Geothermal', 2023);0.0
+('Spanien', 'Geothermal', 2024);0.0
+('Spanien', 'Geothermal', 2025);0.0
+('Spanien', 'Geothermal', 2026);0.0
+('Spanien', 'Geothermal', 2027);0.0
+('Spanien', 'Geothermal', 2028);0.0
+('Spanien', 'Geothermal', 2029);0.0
+('Spanien', 'Geothermal', 2030);0.0
+('Spanien', 'Geothermal', 2031);0.0
+('Spanien', 'Geothermal', 2032);0.0
+('Spanien', 'Geothermal', 2033);0.0
+('Spanien', 'Geothermal', 2034);0.0
+('Spanien', 'Geothermal', 2035);0.0
+('Spanien', 'Geothermal', 2036);0.0
+('Spanien', 'Geothermal', 2037);0.0
+('Spanien', 'Geothermal', 2038);0.0
+('Spanien', 'Geothermal', 2039);0.0
+('Spanien', 'Geothermal', 2040);0.0
+('Spanien', 'Hydro', 2020);
+('Spanien', 'Hydro', 2021);
+('Spanien', 'Hydro', 2022);
+('Spanien', 'Hydro', 2023);
+('Spanien', 'Hydro', 2024);
+('Spanien', 'Hydro', 2025);0.0
+('Spanien', 'Hydro', 2026);0.0
+('Spanien', 'Hydro', 2027);0.0
+('Spanien', 'Hydro', 2028);0.0
+('Spanien', 'Hydro', 2029);0.0
+('Spanien', 'Hydro', 2030);0.0
+('Spanien', 'Hydro', 2031);0.0
+('Spanien', 'Hydro', 2032);0.0
+('Spanien', 'Hydro', 2033);0.0
+('Spanien', 'Hydro', 2034);0.0
+('Spanien', 'Hydro', 2035);0.0
+('Spanien', 'Hydro', 2036);0.0
+('Spanien', 'Hydro', 2037);0.0
+('Spanien', 'Hydro', 2038);0.0
+('Spanien', 'Hydro', 2039);0.0
+('Spanien', 'Hydro', 2040);0.0
+('Spanien', 'Other RES', 2020);0.0
+('Spanien', 'Other RES', 2021);0.0
+('Spanien', 'Other RES', 2022);0.0
+('Spanien', 'Other RES', 2023);0.0
+('Spanien', 'Other RES', 2024);0.0
+('Spanien', 'Other RES', 2025);0.0
+('Spanien', 'Other RES', 2026);0.0
+('Spanien', 'Other RES', 2027);0.0
+('Spanien', 'Other RES', 2028);0.0
+('Spanien', 'Other RES', 2029);0.0
+('Spanien', 'Other RES', 2030);0.0
+('Spanien', 'Other RES', 2031);0.0
+('Spanien', 'Other RES', 2032);0.0
+('Spanien', 'Other RES', 2033);0.0
+('Spanien', 'Other RES', 2034);0.0
+('Spanien', 'Other RES', 2035);0.0
+('Spanien', 'Other RES', 2036);0.0
+('Spanien', 'Other RES', 2037);0.0
+('Spanien', 'Other RES', 2038);0.0
+('Spanien', 'Other RES', 2039);0.0
+('Spanien', 'Other RES', 2040);0.0
+('Spanien', 'Solar', 2020);0.0
+('Spanien', 'Solar', 2021);0.0
+('Spanien', 'Solar', 2022);0.0
+('Spanien', 'Solar', 2023);0.0
+('Spanien', 'Solar', 2024);0.0
+('Spanien', 'Solar', 2025);0.0
+('Spanien', 'Solar', 2026);0.0
+('Spanien', 'Solar', 2027);0.0
+('Spanien', 'Solar', 2028);0.0
+('Spanien', 'Solar', 2029);0.0
+('Spanien', 'Solar', 2030);0.0
+('Spanien', 'Solar', 2031);0.0
+('Spanien', 'Solar', 2032);0.0
+('Spanien', 'Solar', 2033);0.0
+('Spanien', 'Solar', 2034);0.0
+('Spanien', 'Solar', 2035);0.0
+('Spanien', 'Solar', 2036);0.0
+('Spanien', 'Solar', 2037);0.0
+('Spanien', 'Solar', 2038);0.0
+('Spanien', 'Solar', 2039);0.0
+('Spanien', 'Solar', 2040);0.0
+('Spanien', 'Wind', 2020);
+('Spanien', 'Wind', 2021);
+('Spanien', 'Wind', 2022);
+('Spanien', 'Wind', 2023);
+('Spanien', 'Wind', 2024);
+('Spanien', 'Wind', 2025);
+('Spanien', 'Wind', 2026);
+('Spanien', 'Wind', 2027);
+('Spanien', 'Wind', 2028);
+('Spanien', 'Wind', 2029);
+('Spanien', 'Wind', 2030);
+('Spanien', 'Wind', 2031);
+('Spanien', 'Wind', 2032);
+('Spanien', 'Wind', 2033);
+('Spanien', 'Wind', 2034);
+('Spanien', 'Wind', 2035);
+('Spanien', 'Wind', 2036);
+('Spanien', 'Wind', 2037);
+('Spanien', 'Wind', 2038);
+('Spanien', 'Wind', 2039);
+('Spanien', 'Wind', 2040);
+('Schweden', 'Biomass', 2020);0.0
+('Schweden', 'Biomass', 2021);0.0
+('Schweden', 'Biomass', 2022);0.0
+('Schweden', 'Biomass', 2023);0.0
+('Schweden', 'Biomass', 2024);0.0
+('Schweden', 'Biomass', 2025);0.0
+('Schweden', 'Biomass', 2026);0.0
+('Schweden', 'Biomass', 2027);0.0
+('Schweden', 'Biomass', 2028);0.0
+('Schweden', 'Biomass', 2029);0.0
+('Schweden', 'Biomass', 2030);0.0
+('Schweden', 'Biomass', 2031);0.0
+('Schweden', 'Biomass', 2032);0.0
+('Schweden', 'Biomass', 2033);0.0
+('Schweden', 'Biomass', 2034);0.0
+('Schweden', 'Biomass', 2035);0.0
+('Schweden', 'Biomass', 2036);0.0
+('Schweden', 'Biomass', 2037);0.0
+('Schweden', 'Biomass', 2038);0.0
+('Schweden', 'Biomass', 2039);0.0
+('Schweden', 'Biomass', 2040);0.0
+('Schweden', 'Geothermal', 2020);0.0
+('Schweden', 'Geothermal', 2021);0.0
+('Schweden', 'Geothermal', 2022);0.0
+('Schweden', 'Geothermal', 2023);0.0
+('Schweden', 'Geothermal', 2024);0.0
+('Schweden', 'Geothermal', 2025);0.0
+('Schweden', 'Geothermal', 2026);0.0
+('Schweden', 'Geothermal', 2027);0.0
+('Schweden', 'Geothermal', 2028);0.0
+('Schweden', 'Geothermal', 2029);0.0
+('Schweden', 'Geothermal', 2030);0.0
+('Schweden', 'Geothermal', 2031);0.0
+('Schweden', 'Geothermal', 2032);0.0
+('Schweden', 'Geothermal', 2033);0.0
+('Schweden', 'Geothermal', 2034);0.0
+('Schweden', 'Geothermal', 2035);0.0
+('Schweden', 'Geothermal', 2036);0.0
+('Schweden', 'Geothermal', 2037);0.0
+('Schweden', 'Geothermal', 2038);0.0
+('Schweden', 'Geothermal', 2039);0.0
+('Schweden', 'Geothermal', 2040);0.0
+('Schweden', 'Hydro', 2020);0.0
+('Schweden', 'Hydro', 2021);0.0
+('Schweden', 'Hydro', 2022);0.0
+('Schweden', 'Hydro', 2023);0.0
+('Schweden', 'Hydro', 2024);0.0
+('Schweden', 'Hydro', 2025);0.0
+('Schweden', 'Hydro', 2026);0.0
+('Schweden', 'Hydro', 2027);0.0
+('Schweden', 'Hydro', 2028);0.0
+('Schweden', 'Hydro', 2029);0.0
+('Schweden', 'Hydro', 2030);0.0
+('Schweden', 'Hydro', 2031);0.0
+('Schweden', 'Hydro', 2032);0.0
+('Schweden', 'Hydro', 2033);0.0
+('Schweden', 'Hydro', 2034);0.0
+('Schweden', 'Hydro', 2035);0.0
+('Schweden', 'Hydro', 2036);0.0
+('Schweden', 'Hydro', 2037);0.0
+('Schweden', 'Hydro', 2038);0.0
+('Schweden', 'Hydro', 2039);0.0
+('Schweden', 'Hydro', 2040);0.0
+('Schweden', 'Other RES', 2020);0.0
+('Schweden', 'Other RES', 2021);0.0
+('Schweden', 'Other RES', 2022);0.0
+('Schweden', 'Other RES', 2023);0.0
+('Schweden', 'Other RES', 2024);0.0
+('Schweden', 'Other RES', 2025);0.0
+('Schweden', 'Other RES', 2026);0.0
+('Schweden', 'Other RES', 2027);0.0
+('Schweden', 'Other RES', 2028);0.0
+('Schweden', 'Other RES', 2029);0.0
+('Schweden', 'Other RES', 2030);0.0
+('Schweden', 'Other RES', 2031);0.0
+('Schweden', 'Other RES', 2032);0.0
+('Schweden', 'Other RES', 2033);0.0
+('Schweden', 'Other RES', 2034);0.0
+('Schweden', 'Other RES', 2035);0.0
+('Schweden', 'Other RES', 2036);0.0
+('Schweden', 'Other RES', 2037);0.0
+('Schweden', 'Other RES', 2038);0.0
+('Schweden', 'Other RES', 2039);0.0
+('Schweden', 'Other RES', 2040);0.0
+('Schweden', 'Solar', 2020);0.0
+('Schweden', 'Solar', 2021);0.0
+('Schweden', 'Solar', 2022);0.0
+('Schweden', 'Solar', 2023);0.0
+('Schweden', 'Solar', 2024);0.0
+('Schweden', 'Solar', 2025);0.0
+('Schweden', 'Solar', 2026);0.0
+('Schweden', 'Solar', 2027);0.0
+('Schweden', 'Solar', 2028);0.0
+('Schweden', 'Solar', 2029);0.0
+('Schweden', 'Solar', 2030);0.0
+('Schweden', 'Solar', 2031);0.0
+('Schweden', 'Solar', 2032);0.0
+('Schweden', 'Solar', 2033);0.0
+('Schweden', 'Solar', 2034);0.0
+('Schweden', 'Solar', 2035);0.0
+('Schweden', 'Solar', 2036);0.0
+('Schweden', 'Solar', 2037);0.0
+('Schweden', 'Solar', 2038);0.0
+('Schweden', 'Solar', 2039);0.0
+('Schweden', 'Solar', 2040);0.0
+('Schweden', 'Wind', 2020);0.0
+('Schweden', 'Wind', 2021);0.0
+('Schweden', 'Wind', 2022);0.0
+('Schweden', 'Wind', 2023);0.0
+('Schweden', 'Wind', 2024);0.0
+('Schweden', 'Wind', 2025);0.0
+('Schweden', 'Wind', 2026);0.0
+('Schweden', 'Wind', 2027);0.0
+('Schweden', 'Wind', 2028);0.0
+('Schweden', 'Wind', 2029);0.0
+('Schweden', 'Wind', 2030);0.0
+('Schweden', 'Wind', 2031);0.0
+('Schweden', 'Wind', 2032);0.0
+('Schweden', 'Wind', 2033);0.0
+('Schweden', 'Wind', 2034);0.0
+('Schweden', 'Wind', 2035);0.0
+('Schweden', 'Wind', 2036);0.0
+('Schweden', 'Wind', 2037);0.0
+('Schweden', 'Wind', 2038);0.0
+('Schweden', 'Wind', 2039);0.0
+('Schweden', 'Wind', 2040);0.0
+('Schweiz', 'Biomass', 2020);
+('Schweiz', 'Biomass', 2021);
+('Schweiz', 'Biomass', 2022);
+('Schweiz', 'Biomass', 2023);
+('Schweiz', 'Biomass', 2024);
+('Schweiz', 'Biomass', 2025);
+('Schweiz', 'Biomass', 2026);
+('Schweiz', 'Biomass', 2027);
+('Schweiz', 'Biomass', 2028);
+('Schweiz', 'Biomass', 2029);
+('Schweiz', 'Biomass', 2030);
+('Schweiz', 'Biomass', 2031);
+('Schweiz', 'Biomass', 2032);
+('Schweiz', 'Biomass', 2033);
+('Schweiz', 'Biomass', 2034);
+('Schweiz', 'Biomass', 2035);
+('Schweiz', 'Biomass', 2036);
+('Schweiz', 'Biomass', 2037);
+('Schweiz', 'Biomass', 2038);
+('Schweiz', 'Biomass', 2039);
+('Schweiz', 'Biomass', 2040);
+('Schweiz', 'Geothermal', 2020);0.0
+('Schweiz', 'Geothermal', 2021);0.0
+('Schweiz', 'Geothermal', 2022);0.0
+('Schweiz', 'Geothermal', 2023);0.0
+('Schweiz', 'Geothermal', 2024);0.0
+('Schweiz', 'Geothermal', 2025);0.0
+('Schweiz', 'Geothermal', 2026);0.0
+('Schweiz', 'Geothermal', 2027);0.0
+('Schweiz', 'Geothermal', 2028);0.0
+('Schweiz', 'Geothermal', 2029);0.0
+('Schweiz', 'Geothermal', 2030);0.0
+('Schweiz', 'Geothermal', 2031);0.0
+('Schweiz', 'Geothermal', 2032);0.0
+('Schweiz', 'Geothermal', 2033);0.0
+('Schweiz', 'Geothermal', 2034);0.0
+('Schweiz', 'Geothermal', 2035);0.0
+('Schweiz', 'Geothermal', 2036);0.0
+('Schweiz', 'Geothermal', 2037);0.0
+('Schweiz', 'Geothermal', 2038);0.0
+('Schweiz', 'Geothermal', 2039);0.0
+('Schweiz', 'Geothermal', 2040);0.0
+('Schweiz', 'Hydro', 2020);
+('Schweiz', 'Hydro', 2021);
+('Schweiz', 'Hydro', 2022);
+('Schweiz', 'Hydro', 2023);
+('Schweiz', 'Hydro', 2024);
+('Schweiz', 'Hydro', 2025);
+('Schweiz', 'Hydro', 2026);
+('Schweiz', 'Hydro', 2027);
+('Schweiz', 'Hydro', 2028);
+('Schweiz', 'Hydro', 2029);
+('Schweiz', 'Hydro', 2030);
+('Schweiz', 'Hydro', 2031);
+('Schweiz', 'Hydro', 2032);
+('Schweiz', 'Hydro', 2033);
+('Schweiz', 'Hydro', 2034);
+('Schweiz', 'Hydro', 2035);
+('Schweiz', 'Hydro', 2036);
+('Schweiz', 'Hydro', 2037);
+('Schweiz', 'Hydro', 2038);
+('Schweiz', 'Hydro', 2039);
+('Schweiz', 'Hydro', 2040);
+('Schweiz', 'Other RES', 2020);0.0
+('Schweiz', 'Other RES', 2021);0.0
+('Schweiz', 'Other RES', 2022);0.0
+('Schweiz', 'Other RES', 2023);0.0
+('Schweiz', 'Other RES', 2024);0.0
+('Schweiz', 'Other RES', 2025);0.0
+('Schweiz', 'Other RES', 2026);0.0
+('Schweiz', 'Other RES', 2027);0.0
+('Schweiz', 'Other RES', 2028);
+('Schweiz', 'Other RES', 2029);
+('Schweiz', 'Other RES', 2030);
+('Schweiz', 'Other RES', 2031);
+('Schweiz', 'Other RES', 2032);
+('Schweiz', 'Other RES', 2033);
+('Schweiz', 'Other RES', 2034);
+('Schweiz', 'Other RES', 2035);
+('Schweiz', 'Other RES', 2036);
+('Schweiz', 'Other RES', 2037);
+('Schweiz', 'Other RES', 2038);
+('Schweiz', 'Other RES', 2039);
+('Schweiz', 'Other RES', 2040);
+('Schweiz', 'Solar', 2020);0.0
+('Schweiz', 'Solar', 2021);0.0
+('Schweiz', 'Solar', 2022);0.0
+('Schweiz', 'Solar', 2023);0.0
+('Schweiz', 'Solar', 2024);0.0
+('Schweiz', 'Solar', 2025);0.0
+('Schweiz', 'Solar', 2026);0.0
+('Schweiz', 'Solar', 2027);0.0
+('Schweiz', 'Solar', 2028);0.0
+('Schweiz', 'Solar', 2029);0.0
+('Schweiz', 'Solar', 2030);0.0
+('Schweiz', 'Solar', 2031);0.0
+('Schweiz', 'Solar', 2032);0.0
+('Schweiz', 'Solar', 2033);0.0
+('Schweiz', 'Solar', 2034);0.0
+('Schweiz', 'Solar', 2035);0.0
+('Schweiz', 'Solar', 2036);0.0
+('Schweiz', 'Solar', 2037);0.0
+('Schweiz', 'Solar', 2038);0.0
+('Schweiz', 'Solar', 2039);0.0
+('Schweiz', 'Solar', 2040);0.0
+('Schweiz', 'Wind', 2020);0.0
+('Schweiz', 'Wind', 2021);0.0
+('Schweiz', 'Wind', 2022);0.0
+('Schweiz', 'Wind', 2023);0.0
+('Schweiz', 'Wind', 2024);0.0
+('Schweiz', 'Wind', 2025);0.0
+('Schweiz', 'Wind', 2026);0.0
+('Schweiz', 'Wind', 2027);0.0
+('Schweiz', 'Wind', 2028);0.0
+('Schweiz', 'Wind', 2029);
+('Schweiz', 'Wind', 2030);
+('Schweiz', 'Wind', 2031);
+('Schweiz', 'Wind', 2032);
+('Schweiz', 'Wind', 2033);
+('Schweiz', 'Wind', 2034);0.0
+('Schweiz', 'Wind', 2035);0.0
+('Schweiz', 'Wind', 2036);0.0
+('Schweiz', 'Wind', 2037);0.0
+('Schweiz', 'Wind', 2038);0.0
+('Schweiz', 'Wind', 2039);0.0
+('Schweiz', 'Wind', 2040);0.0
