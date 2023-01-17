@@ -1,0 +1,36 @@
+Sub VerbrauchskategorienZuordnen()
+
+Dim i As Integer, k As Integer
+Dim temp_Wert As Double
+Dim tabname As String
+Application.ScreenUpdating() = False
+
+tabname = "El-Verbrauch pro UN (Durchschn)"
+i = 3
+
+While Sheets(tabname).Cells(i, 1) <> ""
+    k = 5
+    While Sheets(tabname).Cells(i, k) <> ""
+        temp_Wert = Sheets(tabname).Cells(i, k).Value
+        
+        If temp_Wert < 0.002 Then
+            Sheets(tabname).Cells(i, k + 15) = "A"
+        ElseIf temp_Wert < 0.5 Then
+            Sheets(tabname).Cells(i, k + 15) = "B"
+        ElseIf temp_Wert < 2 Then
+            Sheets(tabname).Cells(i, k + 15) = "C"
+        ElseIf temp_Wert < 20 Then
+            Sheets(tabname).Cells(i, k + 15) = "D"
+        ElseIf temp_Wert < 70 Then
+            Sheets(tabname).Cells(i, k + 15) = "E"
+        ElseIf temp_Wert < 150 Then
+            Sheets(tabname).Cells(i, k + 15) = "F"
+        Else
+            Sheets(tabname).Cells(i, k + 15) = "G"
+        End If
+        
+        k = k + 1
+    Wend
+    i = i + 1
+Wend
+        Application.ScreenUpdating() = True

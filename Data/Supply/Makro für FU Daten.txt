@@ -1,0 +1,36 @@
+Sub DatenZusammenfügen()
+
+Dim n As Integer, k As Integer, i As Integer
+Dim m As Double
+Dim sheetName As String
+
+Application.ScreenUpdating() = False
+Sheets.Add
+ActiveSheet.Name = "Aggregierte Daten"
+
+For m = 0 To 371
+    Sheets("Aggregierte Daten").Cells(1, m + 3) = DateAdd("m", m, "01-Jan-20")
+    Next m
+    
+
+For n = 1 To 6
+    'k = 2
+    ' While Sheets(n + 1).Cells(k, 1) <> ""
+    sheetName = Sheets(n + 1).Name
+    For i = 3 To 35
+        For m = 2 To 373
+               Sheets("Aggregierte Daten").Cells(i - 1 + (n - 1) * 32, 1) = Sheets(n + 1).Cells(1, i).Value
+               Sheets("Aggregierte Daten").Cells(i - 1 + (n - 1) * 32, 2) = sheetName
+               Sheets("Aggregierte Daten").Cells(i - 1 + (n - 1) * 32, m + 1) = Sheets(n + 1).Cells(m, i).Value
+               If Sheets("Aggregierte Daten").Cells(i - 1 + (n - 1) * 32, m + 1).Value = "" Then
+                    Sheets("Aggregierte Daten").Cells(i - 1 + (n - 1) * 32, m + 1) = 0
+                End If
+                    
+               
+               Next m
+               Next i
+               Next n
+               
+Application.ScreenUpdating() = True
+End Sub
+               

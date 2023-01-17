@@ -1,0 +1,70 @@
+Sub DatenAggregieren()
+
+    Dim anz As Integer, anzahl_Jahre As Integer, k As Integer, j As Integer, i As Integer, n As Integer, anzahl_Länder As Integer, anzahl_K1 As Integer, anzahl_K2 As Integer, sprung As Integer, start As Integer
+    Dim temp_Land As String, temp_K1 As String, temp_K2 As String, temp_Währung As String, temp_Einheit As String
+    Dim temp_Wert As Double
+        
+    Application.ScreenUpdating() = False
+	'Deklaration der Werte -> Dies ist dem Eurostat Datenblatt zu entnehmen
+
+    anzahl_Länder = 40
+    anzahl_K1 = 7 'Abnehmerkategorie CONSOM
+    anzahl_K2 = 3 'Preisart TAX
+    anzahl_Jahre = 26 'In diesem Fall 13 Jahre, also 26 Halbjahre
+	sprung = 51 'Intervallgröße der wechselnden Kategorien / Eurostat-Tabellengröße
+start = 14 'Setze Nummer der Zeile, in der das erste Land steht
+
+    
+    'Neues Datenblatt erstellen mit Spaltenüberschriften
+    Sheets.Add
+    ActiveSheet.Name = "Aggregierte Daten"
+    Sheets("Aggregierte Daten").Cells(1, 1) = "Land"
+    Sheets("Aggregierte Daten").Cells(1, 2) = "Abnehmerkategorie"
+    Sheets("Aggregierte Daten").Cells(1, 3) = "Preisart / Steuerberücksichtigung"
+    Sheets("Aggregierte Daten").Cells(1, 4) = "Einheit (pro)"
+    Sheets("Aggregierte Daten").Cells(1, 5) = "Währung"
+
+    
+    'Spaltenüberschriften für die einzelnen Jahre
+    For anz = 0 To anzahl_Jahre - 1
+        temp_Monat = Sheets("Data").Cells(start-1, anz + 2)
+        Sheets("Aggregierte Daten").Cells(1, 6 + anz) = temp_Monat
+    Next anz
+    
+    'Über die Kategorien. Hier müssen die Zeilennummern manuell angepasst werden
+    For i = 0 To anzahl_K1 - 1
+        temp_Währung = Sheets("Data").Cells(11 + anzahl_K2 * sprung * i, 2).Value
+        temp_K1 = Sheets("Data").Cells(8 + anzahl_K2 * sprung * i, 2).Value
+        temp_Einheit = Sheets("Data").Cells(9 + anzahl_K2 * sprung * i, 2).Value
+        
+        For n = 0 To anzahl_K2 - 1 'Über die Preisarten
+
+            temp_K2 = Sheets("Data").Cells(10 + sprung * anzahl_K2 * i + n * sprung, 2).Value
+            
+    'Über die Länder (In diesem Fall 40)
+        For j = 0 To anzahl_Länder - 1
+
+            temp_Land = Sheets("Data").Cells(start + sprung * anzahl_K2 * i + j + sprung * n, 1).Value 'Land wählen
+            'Zeile mit konstanten Werten füllen
+            Sheets("Aggregierte Daten").Cells(2 + i * anzahl_Länder * anzahl_K1 + j + n * anzahl_Länder, 1) = temp_Land
+            Sheets("Aggregierte Daten").Cells(2 + i * anzahl_Länder * anzahl_K1 + j + n * anzahl_Länder, 2) = temp_K1
+            Sheets("Aggregierte Daten").Cells(2 + i * anzahl_Länder * anzahl_K1 + j + n * anzahl_Länder, 3) = temp_K2
+            Sheets("Aggregierte Daten").Cells(2 + i * anzahl_Länder * anzahl_K1 + j + n * anzahl_Länder, 4) = temp_Einheit
+            Sheets("Aggregierte Daten").Cells(2 + i * anzahl_Länder * anzahl_K1 + j + n * anzahl_Länder, 5) = temp_Währung
+            'Loop über die Jahre
+            For k = 1 To anzahl_Jahre
+                temp_Wert = Sheets("Data").Cells(start + sprung * anzahl_K1 * i + n * sprung + j, 1 + k).Value
+                Sheets("Aggregierte Daten").Cells(2 + i * anzahl_Länder * anzahl_K1 + n * anzahl_Länder + j, 5 + k) = temp_Wert
+            Next k
+        Next j
+        Next n
+   Next i
+       Application.ScreenUpdating() = True
+End Sub
+
+
+
+
+
+
+

@@ -1,0 +1,162 @@
+Aggregation der Daten, die nicht nach Ländern, sondern nach Technologie aufgeschlüsselt sind und bis 2002 zurückgehen
+
+Sub DatenAggregieren_Technologie_Gesamt_Monatlich()
+
+    Dim anz As Double
+    Dim anzahl_Monate As Integer
+    Dim anzahl_Jahre As Integer
+    Dim k As Integer
+    Dim temp_Technologie As String
+    Dim temp_Aktion As String
+    Dim temp_Datum As String
+    Dim temp_Wert As Double
+    Dim j As Integer
+    Dim i As Integer
+    Dim a As Integer
+        
+    anzahl_Monate = 228
+    anzahl_Jahre = 18
+    Application.ScreenUpdating() = False
+    
+    Sheets.Add
+    ActiveSheet.Name = "Aggregierte Daten"
+    Sheets("Aggregierte Daten").Cells(1, 1) = "Land"
+    Sheets("Aggregierte Daten").Cells(1, 2) = "Aktion"
+    
+    For a = 0 To 18
+        For anz = 0 To 11
+          temp_Datum = CStr(Sheets("Monthly - Fuel").Cells(2, a * 12 + anz + 4).Value) & " " & CStr(Sheets("Monthly - Fuel").Cells(1, 4 + a * 12).Value)
+          Sheets("Aggregierte Daten").Cells(1, 3 + a * 12 + anz) = temp_Datum
+     Next anz
+    Next a
+
+    'Über die verschiedenen Aktionen und Technolgien
+    For i = 0 To 8 ' 9 Aktionen (Production - Issue, Production - Cancellation etc.)
+        temp_Aktion = Sheets("Monthly - Fuel").Cells(1 + i * 46, 1)
+        'Über die Technologien (42)
+        For j = 0 To 41
+            temp_Technologie = CStr(Sheets("Monthly - Fuel").Cells(3 + i * 46 + j, 1).Value) & "_" & CStr(Sheets("Monthly - Fuel").Cells(3 + i * 46 + j, 2).Value)
+            Sheets("Aggregierte Daten").Cells(2 + i * 42 + j, 2) = temp_Technologie
+            Sheets("Aggregierte Daten").Cells(2 + i * 42 + j, 1) = temp_Aktion
+           For k = 0 To anzahl_Monate - 1
+                temp_Wert = Sheets("Monthly - Fuel").Cells(3 + i * 46 + j, 4 + k).Value
+                Sheets("Aggregierte Daten").Cells(2 + i * 42 + j, 3 + k) = temp_Wert
+            Next k
+        Next j
+    Next i
+
+Application.ScreenUpdating() = True
+End Sub
+
+Aggregation der Daten, die auch nach Ländern aufgeschlüsselt sind, jedoch nur bis 2016 in diesem Detailgrad verfügbar sind
+Sub Daten_Aggegieren_JahrMonatLand()
+
+    Dim temp_Land As String, temp_Technologie As String, temp_Jahr As String, temp_Monat As String, temp_Aktion As String, sheetName As String
+    Dim temp_Wert As Double 
+ Dim i As Integer, j As Integer, k As Integer, n As Integer, m As Integer, p As Integer
+	
+    Application.ScreenUpdating() = False
+    Sheets.Add
+    ActiveSheet.Name = "Aggregierte Daten_Länder"
+    Sheets("Aggregierte Daten_Länder").Cells(1, 1) = "Land"
+    Sheets("Aggregierte Daten_Länder").Cells(1, 2) = "Aktion"
+    Sheets("Aggregierte Daten_Länder").Cells(1, 3) = "Technologie"  
+    
+    For i = 0 To 4 '5 Jahre
+        sheetName = "Monthly - " & CStr(2020 - i) & " Country+Fuel" 'Auswahl des Datensheets
+        For n = 0 To 11 '12 Monate
+                       temp_Monat = Sheets(sheetName).Cells(3, 3 + n * 9).Value & " " & CStr(2020 - i)
+                       Sheets("Aggregierte Daten_Länder").Cells(1, 4 + i * 12 + n) = temp_Monat
+        Next n
+
+        For j = 0 To 24 '25 Länder
+            temp_Land = Sheets(sheetName).Cells(3 + j * 19, 1).Value
+
+            For k = 0 To 11 '12 Technologien
+                temp_Technologie = Sheets(sheetName).Cells(7 + j * 19 + k, 1).Value & "_" & Sheets(sheetName).Cells(7 + j * 19 + k, 2).Value
+
+
+            For n = 0 To 11 ' 12 Monate
+                        For m = 0 To 1 'Aktion Ebene 1: Production or Transaction
+                            
+                            If m = 0 Then
+            
+                                For p = 1 To 3 'Aktion Ebene 2: Issue, Cancel, Expire
+                                    If i = 0 And n = 0 Then 'Kategorien müssen nur einmal aufgeschrieben werden, danach interessieren nur die Zeitreihen
+                                    temp_Aktion = Sheets(sheetName).Cells(5 + j * 19, 3 + m).Value & "_" & Sheets(sheetName).Cells(6 + j * 19, p + 2).Value
+                                    Sheets("Aggregierte Daten_Länder").Cells(108 * j + 9 * k + m + 1 + p, 2) = temp_Aktion
+                                    Sheets("Aggregierte Daten_Länder").Cells(108 * j + 9 * k + m + 1 + p, 1) = temp_Land
+                                    Sheets("Aggregierte Daten_Länder").Cells(108 * j + 9 * k + m + 1 + p, 3) = temp_Technologie
+                                        Else
+                                    End If
+                                    temp_Wert = Sheets(sheetName).Cells(7 + j * 19 + k, 2 + m + p + 9 * n).Value
+                                    Sheets("Aggregierte Daten_Länder").Cells(108 * j + 9 * k + m + 1 + p, 4 + i * 12 + n) = temp_Wert
+                                Next p
+                            Else
+                                For p = 4 To 9 'Aktion Ebene 2: Issue, Cancel, Expire, Import, Export
+                                    If i = 0 And n = 0 Then 'Kategorien müssen nur einmal aufgeschrieben werden, danach interessieren nur die Zeitreihen
+                                        temp_Aktion = Sheets(sheetName).Cells(5 + j * 19, 6).Value & "_" & Sheets(sheetName).Cells(6 + j * 19, p + 2).Value
+                                        Sheets("Aggregierte Daten_Länder").Cells(108 * j + 9 * k + m + p, 2) = temp_Aktion
+                                        Sheets("Aggregierte Daten_Länder").Cells(108 * j + 9 * k + m + p, 1) = temp_Land
+                                        Sheets("Aggregierte Daten_Länder").Cells(108 * j + 9 * k + m + p, 3) = temp_Technologie
+                                    Else
+                                    End If
+                                    temp_Wert = Sheets(sheetName).Cells(7 + j * 19 + k, 2 + m + p + n * 9).Value
+                                    Sheets("Aggregierte Daten_Länder").Cells(108 * j + 9 * k + m + p, i * 12 + n + 4) = temp_Wert
+                                Next p
+                            End If
+                        Next m
+                Next n
+                Next k
+            Next j
+            
+    
+    Next i
+Application.ScreenUpdating() = True
+End Sub
+
+Dieses Skript fasst die oben aggregierten monatlichen Werte zu jährlichen Werten zusammen
+Sub Jahre_Zusammenfassen()
+
+    Dim k As Integer
+    Dim i As Integer
+    Dim summe As Double
+    Dim zwi_su As Double
+    Dim anzahl_Jahre As Integer
+    Dim anz As Integer
+    Dim j As Integer
+    Dim temp_Land As String
+    Dim temp_Aktion As String
+    
+    anzahl_Jahre = 18
+    j = 2
+    summe = 0
+    
+    Sheets.Add
+    ActiveSheet.Name = "Daten nach Jahren"
+    Cells(1, 1) = "Land"
+    Cells(1, 2) = "Aktion"
+    For anz = 1 To anzahl_Jahre
+        Cells(1, 2 + anz) = 2002 + anz
+    Next anz
+    
+
+    While Sheets("Aggregierte Daten").Cells(j + 1, 1).Value <> ""
+        temp_Land = Sheets("Aggregierte Daten").Cells(j, 1).Value
+        Sheets("Daten nach Jahren").Cells(j, 1) = temp_Land
+
+        temp_Aktion = Sheets("Aggregierte Daten").Cells(j, 2).Value
+        Sheets("Daten nach Jahren").Cells(j, 2) = temp_Aktion
+
+        For k = 0 To 17
+            For i = 0 To 11
+                summe = summe + Sheets("Aggregierte Daten").Cells(j, 3 + 12 * k + i).Value
+            Next i
+            Sheets("Daten nach Jahren").Cells(j, k + 3) = summe
+            summe = 0
+        Next k
+        j = j + 1
+       
+     Wend
+        
+End Sub
